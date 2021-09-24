@@ -5,7 +5,6 @@ materiály a info:
 
 je potrebne preložiť textu v tagoch <Value> </Value> (vyznačené na obrázku)
 
-<PastedGraphic-1.png>
 
 budeš k tomu potrebovať len hocijaký textový editor (sublime 3, VS code, atom), ktorý ti zvýrazni syntax, klasicky windows editor to nevie
 
