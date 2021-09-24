@@ -700,304 +700,304 @@
     <Value>Adresa</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.address1">
-    <Value>Address 1</Value>
+    <Value>Adresa 1</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.address1.required">
-    <Value>Address 1 is required.</Value>
+    <Value>Adresa 1 je povinná</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.address2">
-    <Value>Address 2</Value>
+    <Value>Adresa 2</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.address2.required">
-    <Value>Address 2 is required.</Value>
+    <Value>Adresa 2 je povinná.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.city">
-    <Value>City</Value>
+    <Value>Mesto</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.city.required">
-    <Value>City is required.</Value>
+    <Value>Mesto je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.company">
-    <Value>Company</Value>
+    <Value>Spoločnosť</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.company.required">
-    <Value>Company is required.</Value>
+    <Value>Spoločnosť je povinná.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.country">
-    <Value>Country</Value>
+    <Value>Krajina</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.country.required">
-    <Value>Country is required.</Value>
+    <Value>Krajina je povinná.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.county">
-    <Value>County / region</Value>
+    <Value>Kraj / región</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.county.required">
-    <Value>County / region is required.</Value>
+    <Value>Kraj / región je povinný.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.email.required">
-    <Value>Email is required.</Value>
+    <Value>Email je povinný.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.faxnumber">
-    <Value>Fax number</Value>
+    <Value>Číslo faxu</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.faxnumber.required">
-    <Value>Fax number is required.</Value>
+    <Value>Číslo faxu je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.firstname">
-    <Value>First name</Value>
+    <Value>Krstné meno</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.firstname.required">
-    <Value>First name is required.</Value>
+    <Value>Krstné meno je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.lastname">
-    <Value>Last name</Value>
+    <Value>Priezvisko</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.lastname.required">
-    <Value>Last name is required.</Value>
+    <Value>Priezvisko je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.phonenumber">
-    <Value>Phone number</Value>
+    <Value>Telefónne číslo</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.phonenumber.required">
-    <Value>Phone number is required.</Value>
+    <Value>Telefónne číslo je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.stateprovince">
-    <Value>State / province</Value>
+    <Value>Štát / provincia</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.stateprovince.required">
-    <Value>State / province is required.</Value>
+    <Value>Štát / provincia je povinná.</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.zippostalcode">
-    <Value>Zip / postal code</Value>
+    <Value>PSČ</Value>
   </LocaleResource>
   <LocaleResource Name="address.fields.zippostalcode.required">
-    <Value>Zip / postal code is required.</Value>
+    <Value>PSČ je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="address.other">
-    <Value>Other</Value>
+    <Value>Iné</Value>
   </LocaleResource>
   <LocaleResource Name="address.selectcountry">
-    <Value>Select country</Value>
+    <Value>Vyberte krajinu</Value>
   </LocaleResource>
   <LocaleResource Name="address.selectstate">
-    <Value>Select state</Value>
+    <Value>Vyberte štát</Value>
   </LocaleResource>
   <LocaleResource Name="ajaxcart.failure">
-    <Value>Failed to add the product. Please refresh the page and try one more time.</Value>
+    <Value>Produkt sa nepodarilo pridať Obnovte stránku a skúste to ešte raz.</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.alreadysubscribed">
-    <Value>You're already subscribed for this product back in stock notification</Value>
+    <Value>Už ste sa prihlásili na odber tohto produktu a budete informovaní o sklade</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.maxsubscriptions">
-    <Value>You cannot subscribe. Maximum number of allowed subscriptions is {0}</Value>
+    <Value>Nemôžete sa prihlásiť na odber. Maximálny počet povolených predplatných je {0}</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.notallowed">
-    <Value>Subscriptions are not allowed for this product</Value>
+    <Value>Predplatné nie je pre tento produkt povolené</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.notification.subscribed">
     <Value>You've successfully subscribed</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.notification.unsubscribed">
-    <Value>You've successfully unsubscribed</Value>
+    <Value>Úspešne ste sa odhlásili z odberu</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.notifyme">
-    <Value>Notify me</Value>
+    <Value>Upozorni ma</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.notifymewhenavailable">
-    <Value>Notify me when available</Value>
+    <Value>Upozorniť ma, ak bude k dispozícii</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.onlyregistered">
-    <Value>Only registered customers can use this feature</Value>
+    <Value>Túto funkciu môžu používať iba registrovaní zákazníci</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.popuptitle">
-    <Value>Receive an email when this arrives in stock</Value>
+    <Value>Keď bude tento tovar skladom, pošlite nám email</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.tooltip">
-    <Value>You'll receive a onetime e-mail when this product is available for ordering again. We will not send you any other e-mails or add you to our newsletter; you will only be e-mailed about this product!</Value>
+    <Value>Keď bude tento produkt k dispozícii na opätovné objednanie, dostanete e -mail. Nebudeme vám posielať žiadne ďalšie emaily ani vás nepridáme do nášho spravodajcu; o tomto produkte vám bude zaslaný iba email!</Value>
   </LocaleResource>
   <LocaleResource Name="backinstocksubscriptions.unsubscribe">
-    <Value>Unsubscribe</Value>
+    <Value>Zrušiť odber</Value>
   </LocaleResource>
   <LocaleResource Name="bestsellers">
-    <Value>Bestsellers</Value>
+    <Value>Najpredávanejšie</Value>
   </LocaleResource>
   <LocaleResource Name="blog">
     <Value>Blog</Value>
   </LocaleResource>
   <LocaleResource Name="blog.archive">
-    <Value>Blog archive</Value>
+    <Value>Archív blogu</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments">
-    <Value>Comments</Value>
+    <Value>Komentáre</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.commenttext">
-    <Value>Comment</Value>
+    <Value>Komentár</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.commenttext.required">
-    <Value>Enter comment</Value>
+    <Value>Zadajte komentár</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.createdon">
-    <Value>Created on</Value>
+    <Value>Vytvorené</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.leaveyourcomment">
-    <Value>Leave your comment</Value>
+    <Value>Zanechajte svoj komentár</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.onlyregisteredusersleavecomments">
-    <Value>Only registered users can leave comments.</Value>
+    <Value>Komentovať môžu iba registrovaní užívatelia.</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.seeafterapproving">
-    <Value>Blog comment is successfully added. You will see it after approving by a store administrator.</Value>
+    <Value>Komentár blogu bol úspešne pridaný. Uvidíte to po schválení správcom obchodu.</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.submitbutton">
-    <Value>New comment</Value>
+    <Value>Nový komentár</Value>
   </LocaleResource>
   <LocaleResource Name="blog.comments.successfullyadded">
-    <Value>Blog comment is successfully added.</Value>
+    <Value>Komentár blogu bol úspešne pridaný.</Value>
   </LocaleResource>
   <LocaleResource Name="blog.commentslink">
-    <Value>Comments ({0:d})</Value>
+    <Value>Komentáre ({0: d})</Value>
   </LocaleResource>
   <LocaleResource Name="blog.filteredbymonth">
-    <Value>Blog posts of '{0}' '{1}'</Value>
+    <Value>Blogové príspevky pre '{0}' '{1}'</Value>
   </LocaleResource>
   <LocaleResource Name="blog.moreinfo">
-    <Value>details</Value>
+    <Value>podrobnosti</Value>
   </LocaleResource>
   <LocaleResource Name="blog.rss">
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="blog.rss.hint">
-    <Value>Click here to be informed automatically when we add new items to our site.</Value>
+    <Value>Kliknite sem, ak chcete byť automaticky informovaní, keď na naše stránky pridáme nové položky.</Value>
   </LocaleResource>
   <LocaleResource Name="blog.tagcloud">
-    <Value>Popular blog tags</Value>
+    <Value>Populárne tagy blogu</Value>
   </LocaleResource>
   <LocaleResource Name="blog.taggedwith">
-    <Value>Blog posts tagged with '{0}'</Value>
+    <Value>Príspevky blogu označené '' {0} '</Value>
   </LocaleResource>
   <LocaleResource Name="blog.tags">
-    <Value>Tags</Value>
+    <Value>Tagy</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.orderby">
-    <Value>Sort by</Value>
+    <Value>Zoradiť podľa</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.orderby.label">
-    <Value>Select product sort order</Value>
+    <Value>Vyberte poradie zoradenia produktov</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.pagesize">
-    <Value>Display</Value>
+    <Value>Zobraziť</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.pagesize.label">
-    <Value>Select number of products per page</Value>
+    <Value>Vyberte počet produktov na stránku</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.pagesize.perpage">
-    <Value>per page</Value>
+    <Value>na stránku</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.products.noresult">
-    <Value>No products were found that matched your criteria.</Value>
+    <Value>Neboli nájdené žiadne výrobky, ktoré by zodpovedali vašim kritériám.</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.viewmode">
-    <Value>View as</Value>
+    <Value>Zobraziť ako</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.viewmode.grid">
-    <Value>Grid</Value>
+    <Value>Mriežka</Value>
   </LocaleResource>
   <LocaleResource Name="catalog.viewmode.list">
-    <Value>List</Value>
+    <Value>Zoznam</Value>
   </LocaleResource>
   <LocaleResource Name="categories">
-    <Value>Categories</Value>
+    <Value>Kategórie</Value>
   </LocaleResource>
   <LocaleResource Name="categories.breadcrumb.top">
-    <Value>Home</Value>
+    <Value>Domov</Value>
   </LocaleResource>
   <LocaleResource Name="categories.totalproducts">
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="checkgiftcard.giftcardcouponcode.button">
-    <Value>Check gift card</Value>
+    <Value>Skontrolujte darčekový poukaz</Value>
   </LocaleResource>
   <LocaleResource Name="checkgiftcardbalance">
-    <Value>Check gift card balance</Value>
+    <Value>Skontrolujte zostatok na darčekovej karte</Value>
   </LocaleResource>
   <LocaleResource Name="checkgiftcardbalance.giftcardcouponcode.empty">
-    <Value>Coupon code is empty.</Value>
+    <Value>Kód kupónu je prázdny.</Value>
   </LocaleResource>
   <LocaleResource Name="checkgiftcardbalance.giftcardcouponcode.invalid">
-    <Value>Coupon code is not valid.</Value>
+    <Value>Kód kupónu nie je platný.</Value>
   </LocaleResource>
   <LocaleResource Name="checkout">
-    <Value>Checkout</Value>
+    <Value>Pokladňa</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.address.notfound">
-    <Value>Address can't be loaded</Value>
+    <Value>Adresu nie je možné načítať</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.addresses.invalid">
-    <Value>You have {0} invalid address(es)</Value>
+    <Value>Máte {0} neplatné adresy</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.billingaddress">
-    <Value>Billing address</Value>
+    <Value>Fakturačná adresa</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.billtothisaddress">
-    <Value>Bill to this address</Value>
+    <Value>Vyúčtovať na túto adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.button">
-    <Value>Checkout</Value>
+    <Value>Zaplatiť</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.confirmbutton">
-    <Value>Confirm</Value>
+    <Value>Potvrdiť</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.confirmorder">
-    <Value>Confirm order</Value>
+    <Value>Potvrdiť objednávku</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.confirmyourorder">
-    <Value>Confirm your order</Value>
+    <Value>Potvrdiť vašu objednávku</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.disabled">
-    <Value>Sorry, checkout process is temporary disabled</Value>
+    <Value>Ospravedlňujeme sa, ale proces platby je dočasne deaktivovaný</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.enterbillingaddress">
-    <Value>Enter billing address</Value>
+    <Value>Zadajte fakturačnú adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.entershippingaddress">
-    <Value>Enter shipping address</Value>
+    <Value>Zadajte dodaciu adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.minorderplacementinterval">
-    <Value>Please wait several seconds before placing a new order (already placed another order several seconds ago).</Value>
+    <Value>Pred zadaním novej objednávky počkajte niekoľko sekúnd (už pred niekoľkými sekundami bola zadaná iná objednávka).</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.minordersubtotalamount">
-    <Value>Minimum order sub-total amount is {0}</Value>
+    <Value>Minimálna celková čiastka objednávky je {0}</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.minordertotalamount">
-    <Value>Minimum order total amount is {0}</Value>
+    <Value>Celková minimálna suma objednávky je {0}</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.newaddress">
-    <Value>New Address</Value>
+    <Value>Nová adresa</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.nextbutton">
-    <Value>Next</Value>
+    <Value>Ďalej</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.nopaymentmethods">
-    <Value>No payment methods available</Value>
+    <Value>Nie sú k dispozícii žiadne spôsoby platby</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.ordernumber">
-    <Value>Order number</Value>
+    <Value>Číslo objednávky</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.ordersummary">
-    <Value>Order summary</Value>
+    <Value>Zhrnutie objednávky</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.orenternewaddress">
-    <Value>Or enter new address</Value>
+    <Value>Alebo zadajte novú adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.paymenterror">
-    <Value>Payment error: {0}</Value>
+    <Value>Chyba platby: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.paymentinfo">
-    <Value>Payment information</Value>
+    <Value>Informácie o platbe</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.paymentmethod">
     <Value>Payment method</Value>
