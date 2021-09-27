@@ -3520,25 +3520,25 @@
     <Value>Dodatočný poplatok</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.additionalfee.hint">
-    <Value>The additional fee.</Value>
+    <Value>Doplatok.</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.additionalfeepercentage">
-    <Value>Additional fee. Use percentage</Value>
+    <Value>Dodatočný poplatok. Použiť percento</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.additionalfeepercentage.hint">
-    <Value>Determines whether to apply a percentage additional fee to the order total. If not enabled, a fixed value is used.</Value>
+    <Value>Určuje, či sa má na celkový súčet objednávky vzťahovať percentuálny dodatočný poplatok. Ak nie je povolená, použije sa pevná hodnota.</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.descriptiontext">
-    <Value>Description</Value>
+    <Value>Popis</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.descriptiontext.hint">
     <Value>Enter info that will be shown to customers during checkout</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.paymentmethoddescription">
-    <Value>Pay by cheque or money order</Value>
+    <Value>Platiť šekom alebo platobným príkazom</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.shippableproductrequired">
-    <Value>Shippable product required</Value>
+    <Value>Vyžaduje sa tovar na odoslanie </Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.shippableproductrequired.hint">
     <Value>An option indicating whether shippable products are required in order to display this payment method during checkout.</Value>
@@ -3565,7 +3565,7 @@
     <Value>This payment method stores credit card information in database (it's not sent to any third-party processor). In order to store credit card information, you must be PCI compliant.</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payments.manual.paymentmethoddescription">
-    <Value>Pay by credit / debit card</Value>
+    <Value>Platiť kreditnou / debetnou kartou</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payments.paypaldirect.fields.additionalfee">
     <Value>Additional fee</Value>
@@ -3619,7 +3619,7 @@
     <Value>&lt;p&gt;&lt;b&gt;If you're using this gateway ensure that your primary store currency is supported by PayPal.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;To configure plugin follow these steps:&lt;br /&gt;1. Log into your Developer PayPal account (click &lt;a href="https://www.paypal.com/us/webapps/mpp/referral/paypal-business-account2?partner_id=9JJPJNNPQ7PZ8" target="_blank"&gt;here&lt;/a&gt; to create your account).&lt;br /&gt;2. Click on My Apps &amp; Credentials from the Dashboard.&lt;br /&gt;3. Create new REST API app.&lt;br /&gt;4. Copy your Client ID and Secret key below.&lt;br /&gt;5. To be able to use recurring payments you need to set the webhook ID. You can get it manually in your PayPal account (enter the URL {0} below REST API application credentials), or automatically by pressing "{1}" button (not visible when running the site locally).&lt;br /&gt;&lt;/p&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payments.paypaldirect.paymentmethoddescription">
-    <Value>Pay by credit / debit card</Value>
+    <Value>Platiť kreditnou / debetnou kartou</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payments.paypaldirect.webhookcreate">
     <Value>Get webhook ID</Value>
@@ -4177,64 +4177,64 @@
     <Value>Enter comment for picture. Leave empty if you don't want to display any text.</Value>
   </LocaleResource>
   <LocaleResource Name="polls.onlyregisteredusersvote">
-    <Value>Only registered users can vote.</Value>
+    <Value>Hlasovať môžu iba registrovaní užívatelia.</Value>
   </LocaleResource>
   <LocaleResource Name="polls.selectanswer">
-    <Value>Please select an answer</Value>
+    <Value>Vyberte odpoveď</Value>
   </LocaleResource>
   <LocaleResource Name="polls.title">
-    <Value>Community poll</Value>
+    <Value>Anketa komunity</Value>
   </LocaleResource>
   <LocaleResource Name="polls.totalvotes">
-    <Value>{0} vote(s)...</Value>
+    <Value>{0} hlasov...</Value>
   </LocaleResource>
   <LocaleResource Name="polls.vote">
-    <Value>Vote</Value>
+    <Value>VoHlasujtete</Value>
   </LocaleResource>
   <LocaleResource Name="polls.votesresultline">
-    <Value>{0} ({1} vote(s) - {2}%)</Value>
+    <Value>{0} ({1} hlasov - {2}%)</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox">
-    <Value>Inbox</Value>
+    <Value>Doručená pošta</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.datecolumn">
-    <Value>Date</Value>
+    <Value>Dátum</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.deleteselected">
-    <Value>Delete selected</Value>
+    <Value>Zmaž označené</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.fromcolumn">
-    <Value>From</Value>
+    <Value>Od</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.markasunread">
-    <Value>Mark selected as unread</Value>
+    <Value>Označiť ako neprečítané</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.noitems">
-    <Value>No inbox messages</Value>
+    <Value>Žiadne doručené správy</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.subjectcolumn">
-    <Value>Subject</Value>
+    <Value>Predmet</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.inbox.tocolumn">
-    <Value>To</Value>
+    <Value>Komu</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.messagecannotbeempty">
-    <Value>Message cannot be empty</Value>
+    <Value>Správa nemôže byť prázdna</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.pm">
-    <Value>PM</Value>
+    <Value>SS</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.privatemessages">
-    <Value>Private Messages</Value>
+    <Value>Súkromné správy</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.cancelbutton">
-    <Value>Cancel</Value>
+    <Value>Zrušiť</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.message">
-    <Value>Message:</Value>
+    <Value>Správa:</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.postmessage">
-    <Value>Post a Private Message</Value>
+    <Value>Odoslať súkromnú správu</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.sendbutton">
     <Value>Send</Value>
