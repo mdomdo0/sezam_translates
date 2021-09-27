@@ -532,13 +532,13 @@
     <Value>Účet nie je aktívny</Value>
   </LocaleResource>
   <LocaleResource Name="account.login.wrongcredentials.notregistered">
-    <Value>Účet nie je zaregistrovaný/Value>
+    <Value>Účet nie je zaregistrovaný</Value>
   </LocaleResource>
   <LocaleResource Name="account.logout">
     <Value>Odhlásiť sa</Value>
   </LocaleResource>
   <LocaleResource Name="account.multifactorauthentication.description">
-    <Value>&lt;p&gt; Na aktiváciu viacfaktorovej autentifikácie pre svoj účet potrebujete: &lt;/p&gt;&lt;/br&lt;ol&gt;&lt;li&lt; Aktivujte nastavenie „Je povolené“. &Lt;/li&gt;&lt;li&gt; 2. Vyberte si jedného z poskytovateľov viacfaktorovej autentifikácie. &Lt;/li&gt;&lt;li&gt; 3. Uložiť.&Lt;/li&gt;&lt;li&gt; 4. Nakonfigurujte vybraného poskytovateľa viacfaktorovej autentifikácie podľa pokynov na stránke individuálnych nastavení vybraného poskytovateľa. &Lt;/li&gt;&lt;/ol&gt;&lt;/br&gt;&lt;p&gt; POZOR. Po uložení vybraného poskytovateľa ho nakonfigurujte, inak vám bude pri ďalšom pokuse o zadanie účtu zamietnutý prístup. &Lt;/p&gt;</Value>
+    <Value>&lt;p&gt; Na aktiváciu viacfaktorovej autentifikácie pre svoj účet potrebujete: &lt;/p&gt;&lt;/br&lt;ol&gt;&lt;li&lt; Aktivujte nastavenie „Je povolené“. &lt;/li&gt;&lt;li&gt; 2. Vyberte si jedného z poskytovateľov viacfaktorovej autentifikácie. &lt;/li&gt;&lt;li&gt; 3. Uložiť.&lt;/li&gt;&lt;li&gt; 4. Nakonfigurujte vybraného poskytovateľa viacfaktorovej autentifikácie podľa pokynov na stránke individuálnych nastavení vybraného poskytovateľa. &lt;/li&gt;&lt;/ol&gt;&lt;/br&gt;&lt;p&gt; POZOR. Po uložení vybraného poskytovateľa ho nakonfigurujte, inak vám bude pri ďalšom pokuse o zadanie účtu zamietnutý prístup. &lt;/p&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="account.multifactorauthentication.fields.isenabled">
     <Value>Je povolené</Value>
