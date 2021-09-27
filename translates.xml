@@ -2158,28 +2158,28 @@
     <Value>Metric (kilometers)</Value>
   </LocaleResource>
   <LocaleResource Name="eucookielaw.description">
-    <Value>On 26 May 2011, the rules about cookies on websites changed. This site uses cookies. One or more of the cookies we use is essential for parts of this website to operate and has already been set. You may delete and block all cookies from this site, but parts of the site will not work. To find out more about cookies used on this website and how to delete cookies, see our privacy policy</Value>
+    <Value>26. mája 2011 sa zmenili pravidlá pre súbory cookie na webových stránkach. Táto stránka používa cookies. Jeden alebo viac súborov cookie, ktoré používame, sú nevyhnutné na to, aby fungovali časti týchto webových stránok, a už boli nastavené. Môžete odstrániť a zablokovať všetky súbory cookie z tohto webu, ale časti stránok nebudú fungovať. Ak sa chcete dozvedieť viac o súboroch cookie používaných na tomto webe a o tom, ako súbory cookie odstrániť, prečítajte si naše zásady ochrany osobných údajov</Value>
   </LocaleResource>
   <LocaleResource Name="eucookielaw.description2">
-    <Value>Cookies help us deliver our services. By using our services, you agree to our use of cookies.</Value>
+    <Value>Súbory cookie nám pomáhajú poskytovať služby. Používaním našich služieb súhlasíte s používaním súborov cookie.</Value>
   </LocaleResource>
   <LocaleResource Name="eucookielaw.learnmore">
-    <Value>Learn more</Value>
+    <Value>Ďalšie informácie</Value>
   </LocaleResource>
   <LocaleResource Name="filtering.manufacturerfilter">
-    <Value>Filter by manufacturer</Value>
+    <Value>Filtrovať podľa výrobcu</Value>
   </LocaleResource>
   <LocaleResource Name="filtering.pricerangefilter">
-    <Value>Filter by price</Value>
+    <Value>Filtrovať podľa ceny</Value>
   </LocaleResource>
   <LocaleResource Name="filtering.specificationfilter">
-    <Value>Filter by attributes</Value>
+    <Value>Filtrovať podľa charakteristik</Value>
   </LocaleResource>
   <LocaleResource Name="footer.customerservice">
-    <Value>Customer service</Value>
+    <Value>Zákaznícky servis</Value>
   </LocaleResource>
   <LocaleResource Name="footer.followus">
-    <Value>Follow us</Value>
+    <Value>Nasleduj nás</Value>
   </LocaleResource>
   <LocaleResource Name="footer.followus.facebook">
     <Value>Facebook</Value>
@@ -2194,256 +2194,256 @@
     <Value>YouTube</Value>
   </LocaleResource>
   <LocaleResource Name="footer.information">
-    <Value>Information</Value>
+    <Value>Informácie</Value>
   </LocaleResource>
   <LocaleResource Name="footer.myaccount">
-    <Value>My account</Value>
+    <Value>Môj účet</Value>
   </LocaleResource>
   <LocaleResource Name="footer.taxshipping.excltax">
-    <Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené bez dane. Vrátane &lt;a href="{0}"&gt;poštovného&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="footer.taxshipping.incltax">
-    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené vrátane dane. Vrátane &lt;a href="{0}"&gt;poštovného&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="formattedattributes.priceadjustment">
     <Value>[{0}{1}{2}]</Value>
   </LocaleResource>
   <LocaleResource Name="forum.activediscussions">
-    <Value>Active discussions</Value>
+    <Value>Aktívne diskusie</Value>
   </LocaleResource>
   <LocaleResource Name="forum.activediscussions.viewall">
-    <Value>View all</Value>
+    <Value>Zobraziť všetky</Value>
   </LocaleResource>
   <LocaleResource Name="forum.activediscussionsfeeddescription">
-    <Value>Topics with active discussions.</Value>
+    <Value>Témy s aktívnymi diskusiami.</Value>
   </LocaleResource>
   <LocaleResource Name="forum.activediscussionsfeedtitle">
-    <Value>{0} - Active Discussions</Value>
+    <Value>{0} - Aktívne diskusie</Value>
   </LocaleResource>
   <LocaleResource Name="forum.activediscussionsrsslinktitle">
-    <Value>Click here to be informed automatically of active discussion topics</Value>
+    <Value>Kliknutím sem získate automatické informácie o aktívnych témach diskusie</Value>
   </LocaleResource>
   <LocaleResource Name="forum.advancedsearch">
-    <Value>Advanced search</Value>
+    <Value>Pokročilé vyhľadávanie</Value>
   </LocaleResource>
   <LocaleResource Name="forum.announcement">
-    <Value>Announcement</Value>
+    <Value>Oznam</Value>
   </LocaleResource>
   <LocaleResource Name="forum.author">
-    <Value>Author</Value>
+    <Value>Autor</Value>
   </LocaleResource>
   <LocaleResource Name="forum.breadcrumb.forumgrouptitle">
-    <Value>Forum Group</Value>
+    <Value>Skupina fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.breadcrumb.forumhometitle">
-    <Value>Forum Home Page</Value>
+    <Value>Domovská stránka fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.breadcrumb.forumtitle">
-    <Value>Forum</Value>
+    <Value>Fórum</Value>
   </LocaleResource>
   <LocaleResource Name="forum.breadcrumb.hometitle">
-    <Value>Home Page</Value>
+    <Value>Domovská stránka</Value>
   </LocaleResource>
   <LocaleResource Name="forum.breadcrumb.topictitle">
-    <Value>Topic</Value>
+    <Value>Téma</Value>
   </LocaleResource>
   <LocaleResource Name="forum.by">
-    <Value>By</Value>
+    <Value>Od</Value>
   </LocaleResource>
   <LocaleResource Name="forum.cancel">
-    <Value>Cancel</Value>
+    <Value>Zrušiť</Value>
   </LocaleResource>
   <LocaleResource Name="forum.deletepost">
-    <Value>Delete Post</Value>
+    <Value>Odstrániť príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.deletetopic">
-    <Value>Delete Topic</Value>
+    <Value>Odstrániť tému</Value>
   </LocaleResource>
   <LocaleResource Name="forum.editpost">
-    <Value>Edit Post</Value>
+    <Value>Upraviť príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.edittopic">
-    <Value>Edit Topic</Value>
+    <Value>Odstrániť tému</Value>
   </LocaleResource>
   <LocaleResource Name="forum.forum">
-    <Value>Forum</Value>
+    <Value>Fórum</Value>
   </LocaleResource>
   <LocaleResource Name="forum.forumfeeddescription">
-    <Value>Forum's topics with newest posts.</Value>
+    <Value>Témy fóra s najnovšími príspevkami.</Value>
   </LocaleResource>
   <LocaleResource Name="forum.forumfeedtitle">
-    <Value>{0} - Forum: {1}</Value>
+    <Value>{0} - Fórum: {1}</Value>
   </LocaleResource>
   <LocaleResource Name="forum.forumname">
-    <Value>Forum Name</Value>
+    <Value>Meno fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.forumrsslinktitle">
-    <Value>Click here to be informed automatically of new posts and topics in the forum</Value>
+    <Value>Kliknite sem, aby ste boli automaticky informovaní o nových príspevkoch a témach vo fóre</Value>
   </LocaleResource>
   <LocaleResource Name="forum.forums">
-    <Value>Forums</Value>
+    <Value>Fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.home">
-    <Value>Home</Value>
+    <Value>Domov</Value>
   </LocaleResource>
   <LocaleResource Name="forum.in">
-    <Value>In</Value>
+    <Value>V</Value>
   </LocaleResource>
   <LocaleResource Name="forum.joined">
-    <Value>Joined</Value>
+    <Value>Pripojené</Value>
   </LocaleResource>
   <LocaleResource Name="forum.latestpost">
-    <Value>Latest Post</Value>
+    <Value>Najnovší príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.location">
-    <Value>Location</Value>
+    <Value>Poloha</Value>
   </LocaleResource>
   <LocaleResource Name="forum.moderator">
-    <Value>Moderator</Value>
+    <Value>Moderátor</Value>
   </LocaleResource>
   <LocaleResource Name="forum.movetopic">
-    <Value>Move Topic</Value>
+    <Value>Presunúť tému</Value>
   </LocaleResource>
   <LocaleResource Name="forum.newpost">
-    <Value>New Post</Value>
+    <Value>Nový príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.newtopic">
-    <Value>New Topic</Value>
+    <Value>Nová téma</Value>
   </LocaleResource>
   <LocaleResource Name="forum.noposts">
-    <Value>No Posts</Value>
+    <Value>Žiadne príspevky</Value>
   </LocaleResource>
   <LocaleResource Name="forum.normal">
-    <Value>Normal</Value>
+    <Value>Normálne</Value>
   </LocaleResource>
   <LocaleResource Name="forum.notifywhensomeonepostsinthistopic">
-    <Value>Notify me via email when someone posts in this topic</Value>
+    <Value>Upozorniť ma emailom, keď niekto uverejní príspevok v tejto téme</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.activediscussions">
-    <Value>Active discussions</Value>
+    <Value>Aktívne diskusie</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.default">
-    <Value>Forums</Value>
+    <Value>Fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.movetopic">
-    <Value>Move Topic</Value>
+    <Value>Presunúť tému</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.postedit">
-    <Value>Edit Post</Value>
+    <Value>Upraviť príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.postnew">
-    <Value>New Post</Value>
+    <Value>Nový príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.search">
-    <Value>Search Forums</Value>
+    <Value>Vyhľadajte fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.topicedit">
-    <Value>Edit Topic</Value>
+    <Value>Upraviť tému</Value>
   </LocaleResource>
   <LocaleResource Name="forum.pagetitle.topicnew">
-    <Value>New Topic</Value>
+    <Value>Nová téma</Value>
   </LocaleResource>
   <LocaleResource Name="forum.post.isnotuseful">
-    <Value>This post/answer is not useful</Value>
+    <Value>Tento príspevok/odpoveď nie je užitočný</Value>
   </LocaleResource>
   <LocaleResource Name="forum.post.isuseful">
-    <Value>This post/answer is useful</Value>
+    <Value>Tento príspevok/odpoveď je užitočný</Value>
   </LocaleResource>
   <LocaleResource Name="forum.posted">
-    <Value>Posted</Value>
+    <Value>Uverejnené</Value>
   </LocaleResource>
   <LocaleResource Name="forum.postlinktitle">
-    <Value>Link to this post</Value>
+    <Value>Odkaz na tento príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.posts">
-    <Value>Posts</Value>
+    <Value>Príspevky</Value>
   </LocaleResource>
   <LocaleResource Name="forum.priority">
-    <Value>Priority</Value>
+    <Value>Priorita</Value>
   </LocaleResource>
   <LocaleResource Name="forum.privatemessages.pm">
     <Value>PM</Value>
   </LocaleResource>
   <LocaleResource Name="forum.quotepost">
-    <Value>Quote</Value>
+    <Value>Citát</Value>
   </LocaleResource>
   <LocaleResource Name="forum.replies">
-    <Value>Replies</Value>
+    <Value>Odpovede</Value>
   </LocaleResource>
   <LocaleResource Name="forum.reply">
-    <Value>Reply</Value>
+    <Value>Odpovedať</Value>
   </LocaleResource>
   <LocaleResource Name="forum.rss">
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search">
-    <Value>Search Forums</Value>
+    <Value>Vyhľadajte fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.advancedsearch">
-    <Value>Advanced search</Value>
+    <Value>Pokročilé vyhľadávanie</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious">
-    <Value>Limit results to previous:</Value>
+    <Value>Obmedziť výsledky na predchádzajúce:</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.1day">
-    <Value>1 day</Value>
+    <Value>1 deň</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.1month">
-    <Value>1 month</Value>
+    <Value>1 mesiac</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.1year">
-    <Value>1 year</Value>
+    <Value>1 rok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.2weeks">
-    <Value>2 weeks</Value>
+    <Value>2 týždne</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.3months">
-    <Value>3 months</Value>
+    <Value>3 mesiace</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.6months">
-    <Value>6 months</Value>
+    <Value>6 mesiacov</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.7days">
-    <Value>7 days</Value>
+    <Value>7 dní</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.limitresultstoprevious.allresults">
-    <Value>All results</Value>
+    <Value>Všetky výsledky</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchinforum">
-    <Value>Search in forum:</Value>
+    <Value>Hľadať vo fóre:</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchinforum.all">
-    <Value>All forums</Value>
+    <Value>Všetky fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchkeyword">
-    <Value>Search keyword:</Value>
+    <Value>Hľadať kľúčové slovo:</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchwithin">
-    <Value>Search within:</Value>
+    <Value>Hľadať v rámci:</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchwithin.all">
-    <Value>Topic titles and post text</Value>
+    <Value>Názvy tém a text príspevku</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchwithin.posttextonly">
-    <Value>Post text only</Value>
+    <Value>Len obsah príspevku</Value>
   </LocaleResource>
   <LocaleResource Name="forum.search.searchwithin.topictitlesonly">
-    <Value>Topic titles only</Value>
+    <Value>Len názvy tém</Value>
   </LocaleResource>
   <LocaleResource Name="forum.searchbutton">
-    <Value>Search</Value>
+    <Value>Hladať</Value>
   </LocaleResource>
   <LocaleResource Name="forum.searchforumstooltip">
-    <Value>Search forums</Value>
+    <Value>Hľadaj fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.searchnoresultstext">
-    <Value>No posts were found that matched your criteria.</Value>
+    <Value>Neboli nájdené žiadne príspevky, ktoré by zodpovedali vašim kritériám.</Value>
   </LocaleResource>
   <LocaleResource Name="forum.searchtermminimumlengthisncharacters">
-    <Value>Search term minimum length is {0} characters</Value>
+    <Value>Minimálna dĺžka hľadaného výrazu je {0} znakov</Value>
   </LocaleResource>
   <LocaleResource Name="forum.selecttheforumtomovetopic">
-    <Value>Select the forum you want to move the post to</Value>
+    <Value>Vyberte fórum, do ktorého chcete príspevok presunúť</Value>
   </LocaleResource>
   <LocaleResource Name="forum.status">
     <Value>Status</Value>
@@ -2452,298 +2452,298 @@
     <Value>Sticky</Value>
   </LocaleResource>
   <LocaleResource Name="forum.submit">
-    <Value>Submit</Value>
+    <Value>Odoslať</Value>
   </LocaleResource>
   <LocaleResource Name="forum.textcannotbeempty">
-    <Value>Text cannot be empty</Value>
+    <Value>Text nemôže byť prázdny</Value>
   </LocaleResource>
   <LocaleResource Name="forum.topics">
-    <Value>Topics</Value>
+    <Value>Témy</Value>
   </LocaleResource>
   <LocaleResource Name="forum.topics.gotopostpager">
-    <Value>[Go to page: {0}]</Value>
+    <Value>[Prejsť na stránku: {0}]</Value>
   </LocaleResource>
   <LocaleResource Name="forum.topicsubjectcannotbeempty">
-    <Value>Topic subject can not be empty</Value>
+    <Value>Téma predmetu nemôže byť prázdna</Value>
   </LocaleResource>
   <LocaleResource Name="forum.topictitle">
-    <Value>Topic Title</Value>
+    <Value>Názov témy</Value>
   </LocaleResource>
   <LocaleResource Name="forum.totalposts">
-    <Value>Total Posts</Value>
+    <Value>Celkový počet príspevkov</Value>
   </LocaleResource>
   <LocaleResource Name="forum.unwatchforum">
-    <Value>Unwatch Forum</Value>
+    <Value>Zrušiť sledovanie fóra</Value>
   </LocaleResource>
   <LocaleResource Name="forum.unwatchtopic">
-    <Value>Unwatch Topic</Value>
+    <Value>Zrušiť sledovanie témy</Value>
   </LocaleResource>
   <LocaleResource Name="forum.views">
-    <Value>Views</Value>
+    <Value>Zobrazenia</Value>
   </LocaleResource>
   <LocaleResource Name="forum.votes">
-    <Value>Votes</Value>
+    <Value>Hlasy</Value>
   </LocaleResource>
   <LocaleResource Name="forum.votes.alreadyvoted">
-    <Value>You already voted for this post</Value>
+    <Value>Za tento príspevok ste už hlasovali</Value>
   </LocaleResource>
   <LocaleResource Name="forum.votes.login">
-    <Value>You need to log in to vote for post</Value>
+    <Value>Ak chcete hlasovať za príspevok, musíte sa prihlásiť</Value>
   </LocaleResource>
   <LocaleResource Name="forum.votes.maxvotesreached">
-    <Value>A maximum of {0} votes can be cast per user per day</Value>
+    <Value>Na používateľa a deň je možné odovzdať maximálne {0} hlasov</Value>
   </LocaleResource>
   <LocaleResource Name="forum.votes.ownpost">
-    <Value>You cannot vote for your own post</Value>
+    <Value>Nemôžete hlasovať za svoj vlastný príspevok</Value>
   </LocaleResource>
   <LocaleResource Name="forum.watchforum">
-    <Value>Watch Forum</Value>
+    <Value>Sledujte fórum</Value>
   </LocaleResource>
   <LocaleResource Name="forum.watchtopic">
-    <Value>Watch Topic</Value>
+    <Value>Sledujte tému</Value>
   </LocaleResource>
   <LocaleResource Name="gdpr.consent.newsletter">
-    <Value>Newsletter</Value>
+    <Value>Novinky</Value>
   </LocaleResource>
   <LocaleResource Name="gdpr.consent.privacypolicy">
-    <Value>Privacy policy</Value>
+    <Value>Zásady ochrany osobných údajov</Value>
   </LocaleResource>
   <LocaleResource Name="gdpr.deleterequested">
-    <Value>Requested to delete account</Value>
+    <Value>Žiadosť o odstránenie účtu</Value>
   </LocaleResource>
   <LocaleResource Name="gdpr.deleterequested.success">
-    <Value>We'll process your request as soon as possible</Value>
+    <Value>Vašu žiadosť spracujeme čo najskôr</Value>
   </LocaleResource>
   <LocaleResource Name="gdpr.exported">
-    <Value>Exported personal data</Value>
+    <Value>Exportované osobné údaje</Value>
   </LocaleResource>
   <LocaleResource Name="giftcardattribute.for.physical">
-    <Value>For: {0}</Value>
+    <Value>Pre: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="giftcardattribute.for.virtual">
-    <Value>For: {0} &lt;{1}&gt;</Value>
+    <Value>Pre: {0} &lt;{1}&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="giftcardattribute.from.physical">
-    <Value>From: {0}</Value>
+    <Value>Od: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="giftcardattribute.from.virtual">
-    <Value>From: {0} &lt;{1}&gt;</Value>
+    <Value>od: {0} &lt;{1}&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="homepage">
-    <Value>Home page</Value>
+    <Value>Domovská stránka</Value>
   </LocaleResource>
   <LocaleResource Name="homepage.products">
-    <Value>Featured products</Value>
+    <Value>Vybrané produkty</Value>
   </LocaleResource>
   <LocaleResource Name="languages">
-    <Value>Languages</Value>
+    <Value>Jazyky</Value>
   </LocaleResource>
   <LocaleResource Name="languages.selector.label">
-    <Value>Languages selector</Value>
+    <Value>Výber jazyka</Value>
   </LocaleResource>
   <LocaleResource Name="mainmenu.ajaxfailure">
-    <Value>Failed to open menu. Please refresh the page and try one more time.</Value>
+    <Value>Ponuku sa nepodarilo otvoriť. Obnovte stránku a skúste to ešte raz.</Value>
   </LocaleResource>
   <LocaleResource Name="manufacturers">
-    <Value>Manufacturers</Value>
+    <Value>Výrobcovia</Value>
   </LocaleResource>
   <LocaleResource Name="manufacturers.list">
-    <Value>Manufacturer List</Value>
+    <Value>Zoznam výrobcov</Value>
   </LocaleResource>
   <LocaleResource Name="manufacturers.viewall">
-    <Value>View all</Value>
+    <Value>Zobraziť všetky</Value>
   </LocaleResource>
   <LocaleResource Name="media.category.imagealternatetextformat">
-    <Value>Picture for category {0}</Value>
+    <Value>Obrázok pre kategóriu {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.category.imagelinktitleformat">
-    <Value>Show products in category {0}</Value>
+    <Value>Zobraziť produkty v kategórii {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.magnificpopup.close">
-    <Value>Close (Esc)</Value>
+    <Value>Zavrieť (Esc)</Value>
   </LocaleResource>
   <LocaleResource Name="media.magnificpopup.counter">
-    <Value>%curr% of %total%</Value>
+    <Value>%curr% z %total%</Value>
   </LocaleResource>
   <LocaleResource Name="media.magnificpopup.loading">
-    <Value>Loading...</Value>
+    <Value>Načítava sa...</Value>
   </LocaleResource>
   <LocaleResource Name="media.magnificpopup.next">
-    <Value>Next (Right arrow key)</Value>
+    <Value>Ďalej (šípka doprava)</Value>
   </LocaleResource>
   <LocaleResource Name="media.magnificpopup.previous">
-    <Value>Previous (Left arrow key)</Value>
+    <Value>Predchádzajúce (šípka doľava)</Value>
   </LocaleResource>
   <LocaleResource Name="media.manufacturer.imagealternatetextformat">
-    <Value>Picture for manufacturer {0}</Value>
+    <Value>Obrázok pre výrobcu {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.manufacturer.imagelinktitleformat">
-    <Value>Show products manufactured by {0}</Value>
+    <Value>Zobraziť výrobky vyrobené spoločnosťou {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.product.imagealternatetextformat">
-    <Value>Picture of {0}</Value>
+    <Value>Obrázok {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.product.imagealternatetextformat.details">
-    <Value>Picture of {0}</Value>
+    <Value>Obrázok {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.product.imagelinktitleformat">
-    <Value>Show details for {0}</Value>
+    <Value>Zobraziť podrobnosti pre {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.product.imagelinktitleformat.details">
-    <Value>Picture of {0}</Value>
+    <Value>Obrázok {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.vendor.imagealternatetextformat">
-    <Value>Picture for vendor {0}</Value>
+    <Value>Obrázok pre predajcu {0}</Value>
   </LocaleResource>
   <LocaleResource Name="media.vendor.imagelinktitleformat">
-    <Value>Show products of vendor {0}</Value>
+    <Value>Zobraziť produkty predajcu {0}</Value>
   </LocaleResource>
   <LocaleResource Name="menu">
     <Value>Menu</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.giftcardinfo">
-    <Value>Gift card ({0}):</Value>
+    <Value>Darčeková karta ({0}):</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.ordertotal">
-    <Value>Order Total:</Value>
+    <Value>Celková suma objednávky:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.paymentmethodadditionalfee">
-    <Value>Payment method additional fee:</Value>
+    <Value>Dodatočný poplatok za spôsob platby:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s)">
-    <Value>Product(s)</Value>
+    <Value>Produkty</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).download">
-    <Value>Download</Value>
+    <Value>Stiahnuť</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).license">
-    <Value>Download license</Value>
+    <Value>Stiahnuť licenciu</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).name">
-    <Value>Name</Value>
+    <Value>Meno</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).quantity">
-    <Value>Quantity</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).sku">
-    <Value>SKU: {0}</Value>
+    <Value>Skladová jednotka: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.product(s).total">
-    <Value>Total</Value>
+    <Value>Celkom</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.rewardpoints">
-    <Value>{0} reward points:</Value>
+    <Value>Body odmeňovania {0}:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.shipping">
-    <Value>Shipping:</Value>
+    <Value>Doprava:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.subtotal">
-    <Value>Sub-Total:</Value>
+    <Value>Medzisúčet:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.subtotaldiscount">
-    <Value>Discount:</Value>
+    <Value>Zľava:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.tax">
-    <Value>Tax:</Value>
+    <Value>Daň :</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.taxrateline">
-    <Value>Tax {0}%:</Value>
+    <Value>Daň {0}%:</Value>
   </LocaleResource>
   <LocaleResource Name="messages.order.totaldiscount">
-    <Value>Discount:</Value>
+    <Value>Zľava:</Value>
   </LocaleResource>
   <LocaleResource Name="multifactorauthentication.notification.selectedmethodisnotactive">
-    <Value>The multi-factor authentication provider specified in your account settings has been deactivated. Please contact your administrator.</Value>
+    <Value>Poskytovateľ viacfaktorovej autentifikácie uvedený v nastaveniach vášho účtu bol deaktivovaný. Kontaktujte svojho správcu.</Value>
   </LocaleResource>
   <LocaleResource Name="news">
-    <Value>News</Value>
+    <Value>Novinky</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments">
-    <Value>Comments</Value>
+    <Value>Komentáre</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.commenttext">
-    <Value>Comment</Value>
+    <Value>Komentár</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.commenttext.required">
-    <Value>Enter comment text</Value>
+    <Value>Zadajte text komentára</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.commenttitle">
-    <Value>Title</Value>
+    <Value>Názov</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.commenttitle.maxlengthvalidation">
-    <Value>Max length of comment title is {0} chars</Value>
+    <Value>Maximálna dĺžka názvu komentára je {0} znakov</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.commenttitle.required">
-    <Value>Enter comment title</Value>
+    <Value>Zadajte názov komentára</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.createdon">
-    <Value>Created on</Value>
+    <Value>Vytvorené na</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.leaveyourcomment">
-    <Value>Leave your comment</Value>
+    <Value>Zanechajte svoj komentár</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.onlyregisteredusersleavecomments">
-    <Value>Only registered users can leave comments.</Value>
+    <Value>Komentovať môžu iba registrovaní užívatelia.</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.seeafterapproving">
-    <Value>News comment is successfully added. You will see it after approving by a store administrator.</Value>
+    <Value>Komentár k správam bol úspešne pridaný. Uvidíte to po schválení správcom obchodu.</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.submitbutton">
-    <Value>New comment</Value>
+    <Value>Nový komentár</Value>
   </LocaleResource>
   <LocaleResource Name="news.comments.successfullyadded">
-    <Value>News comment is successfully added.</Value>
+    <Value>Komentár k správam bol úspešne pridaný.</Value>
   </LocaleResource>
   <LocaleResource Name="news.moreinfo">
-    <Value>details</Value>
+    <Value>podrobnosti</Value>
   </LocaleResource>
   <LocaleResource Name="news.rss">
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="news.rss.hint">
-    <Value>Click here to be informed automatically when we add new items to our site.</Value>
+    <Value>Kliknite sem, aby ste boli automaticky informovaní, keď na naše stránky pridáme nové položky.</Value>
   </LocaleResource>
   <LocaleResource Name="news.viewall">
-    <Value>View News Archive</Value>
+    <Value>Zobraziť archív noviniek</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.email.placeholder">
-    <Value>Enter your email here...</Value>
+    <Value>Sem zadajte svoj email...</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.email.wrong">
-    <Value>Enter valid email</Value>
+    <Value>Zadajte platný email</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.options.send">
-    <Value>Send</Value>
+    <Value>Odoslať</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.options.subscribe">
-    <Value>Subscribe</Value>
+    <Value>Prihlásiť sa na odber</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.options.unsubscribe">
-    <Value>Unsubscribe</Value>
+    <Value>Zrušiť odber</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.resultactivated">
-    <Value>Your subscription has been activated.</Value>
+    <Value>Váš odber bol aktivovaný.</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.resultdeactivated">
-    <Value>Your subscription has been deactivated.</Value>
+    <Value>Váš odber bol deaktivovaný.</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.subscribe">
-    <Value>Sign up for our newsletter</Value>
+    <Value>Prihláste sa na odber nášho newslettra</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.subscribeemailsent">
-    <Value>Thank you for signing up! A verification email has been sent. We appreciate your interest.</Value>
+    <Value>Ďakujeme, že ste sa zaregistrovali! Bol odoslaný overovací email. Vážime si váš záujem.</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.title">
     <Value>Newsletter</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.unsubscribeemailsent">
-    <Value>A verification email has been sent. Thank you!</Value>
+    <Value>Bol odoslaný overovací email. Ďakujeme! </Value>
   </LocaleResource>
   <LocaleResource Name="order.billingaddress">
-    <Value>Billing Address</Value>
+    <Value>Fakturačná adresa</Value>
   </LocaleResource>
   <LocaleResource Name="order.email">
     <Value>Email</Value>
@@ -2752,106 +2752,106 @@
     <Value>Fax</Value>
   </LocaleResource>
   <LocaleResource Name="order.getpdfinvoice">
-    <Value>PDF Invoice</Value>
+    <Value>Faktúra PDF</Value>
   </LocaleResource>
   <LocaleResource Name="order.giftcardinfo">
-    <Value>Gift card ({0})</Value>
+    <Value>Darčeková karta ({0})</Value>
   </LocaleResource>
   <LocaleResource Name="order.notes">
-    <Value>Note(s)</Value>
+    <Value>Poznámky</Value>
   </LocaleResource>
   <LocaleResource Name="order.notes.createdon">
-    <Value>Created On</Value>
+    <Value>Vytvorené dňa</Value>
   </LocaleResource>
   <LocaleResource Name="order.notes.download">
-    <Value>Download attached file</Value>
+    <Value>Stiahnite si priložený súbor</Value>
   </LocaleResource>
   <LocaleResource Name="order.notes.note">
-    <Value>Note</Value>
+    <Value>Poznámka</Value>
   </LocaleResource>
   <LocaleResource Name="order.order#">
-    <Value>Order #</Value>
+    <Value>Objednávka #</Value>
   </LocaleResource>
   <LocaleResource Name="order.orderdate">
-    <Value>Order Date</Value>
+    <Value>Dátum objednávky</Value>
   </LocaleResource>
   <LocaleResource Name="order.orderinformation">
-    <Value>Order information</Value>
+    <Value>Informacie o objednavke</Value>
   </LocaleResource>
   <LocaleResource Name="order.orderstatus">
-    <Value>Order Status</Value>
+    <Value>Stav objednávky</Value>
   </LocaleResource>
   <LocaleResource Name="order.ordertotal">
-    <Value>Order Total</Value>
+    <Value>Celková suma objednávky</Value>
   </LocaleResource>
   <LocaleResource Name="order.payment">
-    <Value>Payment</Value>
+    <Value>Platba</Value>
   </LocaleResource>
   <LocaleResource Name="order.payment.method">
-    <Value>Payment Method</Value>
+    <Value>Spôsob platby</Value>
   </LocaleResource>
   <LocaleResource Name="order.payment.status">
-    <Value>Payment Status</Value>
+    <Value>Stav platby</Value>
   </LocaleResource>
   <LocaleResource Name="order.paymentmethodadditionalfee">
-    <Value>Payment method additional fee</Value>
+    <Value>Dodatočný poplatok spôsobu platby</Value>
   </LocaleResource>
   <LocaleResource Name="order.phone">
-    <Value>Phone</Value>
+    <Value>Telefón</Value>
   </LocaleResource>
   <LocaleResource Name="order.pickupaddress">
-    <Value>Pickup point address</Value>
+    <Value>Adresa miesta vyzdvihnutia</Value>
   </LocaleResource>
   <LocaleResource Name="order.print">
-    <Value>Print</Value>
+    <Value>Vytlačiť</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s)">
-    <Value>Product(s)</Value>
+    <Value>Produkty</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s).name">
-    <Value>Name</Value>
+    <Value>Meno</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s).price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s).quantity">
-    <Value>Quantity</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s).sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s).total">
-    <Value>Total</Value>
+    <Value>Celkom</Value>
   </LocaleResource>
   <LocaleResource Name="order.product(s).vendorname">
-    <Value>Vendor name</Value>
+    <Value>Meno predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="order.rental.formatteddate">
-    <Value>Start date: {0}. End date: {1}.</Value>
+    <Value>Dátum začiatku: {0}. Dátum ukončenia: {1}.</Value>
   </LocaleResource>
   <LocaleResource Name="order.reorder">
-    <Value>Re-order</Value>
+    <Value>Znovu objednať</Value>
   </LocaleResource>
   <LocaleResource Name="order.retrypayment">
-    <Value>Retry payment</Value>
+    <Value>Skúste platbu znova</Value>
   </LocaleResource>
   <LocaleResource Name="order.retrypayment.hint">
-    <Value>This order is not yet paid for. To pay now, click the "Retry payment" button.</Value>
+    <Value>Táto objednávka ešte nie je zaplatená. Ak chcete zaplatiť teraz, kliknite na tlačidlo „Skúsiť znova platbu“.</Value>
   </LocaleResource>
   <LocaleResource Name="order.returnitems">
-    <Value>Return Item(s)</Value>
+    <Value>Vrátiť položky</Value>
   </LocaleResource>
   <LocaleResource Name="order.rewardpoints">
-    <Value>{0} reward points</Value>
+    <Value>Body odmeny: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments">
-    <Value>Shipments</Value>
+    <Value>Zásielky</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.deliverydate">
-    <Value>Date delivered</Value>
+    <Value>Dátum dodania</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.deliverydate.notyet">
-    <Value>Not yet</Value>
+    <Value>Ešte nie</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.email">
     <Value>Email</Value>
@@ -2860,160 +2860,160 @@
     <Value>Fax</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.id">
-    <Value>Shipments ID</Value>
+    <Value>ID zásielky</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.information">
-    <Value>Shipment #{0}</Value>
+    <Value>Zásielka č. #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.order#">
-    <Value>Order #</Value>
+    <Value>Objednávka č.#</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.phone">
-    <Value>Phone</Value>
+    <Value>Telefón</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.pickupaddress">
-    <Value>Pickup point address</Value>
+    <Value>Adresa miesta vyzdvihnutia</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.product(s)">
-    <Value>Shipped product(s)</Value>
+    <Value>Odoslané produkty</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.product(s).name">
-    <Value>Name</Value>
+    <Value>Meno</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.product(s).quantity">
-    <Value>Qty shipped</Value>
+    <Value>Odoslané množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.product(s).sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.shippeddate">
-    <Value>Date shipped</Value>
+    <Value>Dátum odoslania</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.shippeddate.notyet">
-    <Value>Not yet</Value>
+    <Value>Ešte nie</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.shippingaddress">
-    <Value>Shipping Address</Value>
+    <Value>Dodacia adresa</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.shippingmethod">
-    <Value>Shipping Method</Value>
+    <Value>Spôsob dopravy</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.trackingnumber">
-    <Value>Tracking number</Value>
+    <Value>Sledovacie číslo</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.viewdetails">
-    <Value>View details</Value>
+    <Value>Zobraziť podrobnosti</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipmentstatusevents">
-    <Value>Shipment status events</Value>
+    <Value>Udalosti o stave zásielky</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipmentstatusevents.country">
-    <Value>Country</Value>
+    <Value>Krajina</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipmentstatusevents.date">
-    <Value>Date</Value>
+    <Value>Dátum</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipmentstatusevents.event">
-    <Value>Event</Value>
+    <Value>Udalosť</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipmentstatusevents.location">
-    <Value>Location</Value>
+    <Value>Poloha</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipping">
-    <Value>Shipping</Value>
+    <Value>Doprava</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipping.name">
-    <Value>Shipping Method</Value>
+    <Value>Spôsob dopravy</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipping.status">
-    <Value>Shipping Status</Value>
+    <Value>Stav odoslania</Value>
   </LocaleResource>
   <LocaleResource Name="order.shippingaddress">
-    <Value>Shipping Address</Value>
+    <Value>Dodacia adresa</Value>
   </LocaleResource>
   <LocaleResource Name="order.subtotal">
-    <Value>Sub-Total</Value>
+    <Value>Medzisúčet</Value>
   </LocaleResource>
   <LocaleResource Name="order.subtotaldiscount">
-    <Value>Discount</Value>
+    <Value>Zľava</Value>
   </LocaleResource>
   <LocaleResource Name="order.tax">
-    <Value>Tax</Value>
+    <Value>Daň</Value>
   </LocaleResource>
   <LocaleResource Name="order.taxrateline">
-    <Value>Tax {0}%</Value>
+    <Value>Daň {0}%</Value>
   </LocaleResource>
   <LocaleResource Name="order.taxshipping.excltax">
-    <Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené bez dane. Vrátane &lt;a href="{0}"&gt;doparvy&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="order.taxshipping.incltax">
-    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené vrátane dane. Vrátane &lt;a href="{0}"&gt;dopravy&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="order.totaldiscount">
-    <Value>Discount</Value>
+    <Value>Zľava</Value>
   </LocaleResource>
   <LocaleResource Name="order.vatnumber">
-    <Value>VAT number</Value>
+    <Value>identifikačné číslo DPH</Value>
   </LocaleResource>
   <LocaleResource Name="OUR SHOPS">
     <Value>POBOČKY</Value>
   </LocaleResource>
   <LocaleResource Name="pager.currentpage">
-    <Value>Page {0} of {1} ({2} total)</Value>
+    <Value>Strana {0} z {1} (celkom {2})</Value>
   </LocaleResource>
   <LocaleResource Name="pager.first">
-    <Value>First</Value>
+    <Value>Prvá</Value>
   </LocaleResource>
   <LocaleResource Name="pager.firstpagetitle">
-    <Value>First Page</Value>
+    <Value>Prvá strana</Value>
   </LocaleResource>
   <LocaleResource Name="pager.last">
-    <Value>Last</Value>
+    <Value>Posledná</Value>
   </LocaleResource>
   <LocaleResource Name="pager.lastpagetitle">
-    <Value>Last Page</Value>
+    <Value>Posledná strana</Value>
   </LocaleResource>
   <LocaleResource Name="pager.next">
-    <Value>Next</Value>
+    <Value>Ďalej</Value>
   </LocaleResource>
   <LocaleResource Name="pager.nextpagetitle">
-    <Value>Next Page</Value>
+    <Value>Ďalšia strana</Value>
   </LocaleResource>
   <LocaleResource Name="pager.pagelinktitle">
-    <Value>Page {0}</Value>
+    <Value>Strana {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pager.previous">
-    <Value>Previous</Value>
+    <Value>Predošlé</Value>
   </LocaleResource>
   <LocaleResource Name="pager.previouspagetitle">
-    <Value>Previous Page</Value>
+    <Value>Predchádzajúca strana</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.account">
-    <Value>Account</Value>
+    <Value>Účet</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.accountactivation">
-    <Value>Account Activation</Value>
+    <Value>Aktivácia účtu</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.allproducttags">
-    <Value>All product tags</Value>
+    <Value>Všetky značky produktov</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.backinstocksubscriptions">
-    <Value>Back in stock subscriptions</Value>
+    <Value>Predplatné na sklade</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.blog">
     <Value>Blog</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.checkgiftcardbalance">
-    <Value>Check gift card balance</Value>
+    <Value>Skontrolujte zostatok na darčekovej karte </Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.checkout">
-    <Value>Checkout</Value>
+    <Value>Platba</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.compareproducts">
-    <Value>Compare Products</Value>
+    <Value>Porovnať produkty</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.contactus">
-    <Value>Contact Us</Value>
+    <Value>Kontaktuj nás</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.contactvendor">
     <Value>Contact Vendor - {0}</Value>
