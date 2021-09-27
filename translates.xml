@@ -3016,298 +3016,298 @@
     <Value>Kontaktuj nás</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.contactvendor">
-    <Value>Contact Vendor - {0}</Value>
+    <Value>Kontaktovať dodávateľa - {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.customerproductreviews">
-    <Value>My product reviews</Value>
+    <Value>Moje recenzie na produkty</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.forumsubscriptions">
-    <Value>Forum Subscriptions</Value>
+    <Value>Predplatné fóra</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.login">
-    <Value>Login</Value>
+    <Value>Prihlásiť sa</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.manufacturers">
-    <Value>Manufacturers</Value>
+    <Value>Výrobcovia</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.multifactorauthentication">
-    <Value>Multi-factor authentication</Value>
+    <Value>Viacfaktorová autentifikácia</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.multifactorverification">
-    <Value>Multi-factor verification</Value>
+    <Value>Viacfaktorové overenie</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.newproducts">
-    <Value>New Products</Value>
+    <Value>Nové produkty</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.newsarchive">
-    <Value>News Archive</Value>
+    <Value>Archív správ</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.orderdetails">
-    <Value>Order Details</Value>
+    <Value>Detaily objednávky</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.pagenotfound">
-    <Value>Page not found</Value>
+    <Value>Stránka nenájdená</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.passwordrecovery">
-    <Value>Password Recovery</Value>
+    <Value>Obnova hesla</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.privatemessages">
-    <Value>Private Messages</Value>
+    <Value>Súkromné správy</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.productemailafriend">
-    <Value>Email A Friend</Value>
+    <Value>Email priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.productreviews">
-    <Value>Product Reviews</Value>
+    <Value>Recenzie produktov</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.productsbytag">
-    <Value>Products tagged with '{0}'</Value>
+    <Value>Výrobky označené „{0}“</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.profile">
-    <Value>Profile</Value>
+    <Value>Profil</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.recentlyviewedproducts">
-    <Value>Recently Viewed Products</Value>
+    <Value>Nedávno zobrazené produkty</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.register">
-    <Value>Register</Value>
+    <Value>Registrovať</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.returnitems">
-    <Value>Return Item(s)</Value>
+    <Value>Vrátiť položky</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.search">
-    <Value>Search</Value>
+    <Value>Hľadať</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.sendpm">
-    <Value>Post a private message</Value>
+    <Value>Pošlite súkromnú správu</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.shipmentdetails">
-    <Value>Shipment details</Value>
+    <Value>Podrobnosti o zásielke</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.shoppingcart">
-    <Value>Shopping Cart</Value>
+    <Value>Nákupný košík</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.sitemap">
     <Value>Sitemap</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.storeclosed">
-    <Value>Store closed</Value>
+    <Value>Obchod je zavretý</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.vendorinfo">
-    <Value>Vendor info</Value>
+    <Value>Informácie o predajcovi</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.vendors">
-    <Value>Vendors</Value>
+    <Value>Predajcovia</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.vendors.apply">
-    <Value>Apply for vendor account</Value>
+    <Value>Požiadajte o účet predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.viewpm">
-    <Value>View the private message</Value>
+    <Value>Pozrite si súkromnú správu</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.wishlist">
-    <Value>Wishlist</Value>
+    <Value>Zoznam želaní</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.wishlistemailafriend">
-    <Value>Email wishlist to a friend</Value>
+    <Value>Pošlite zoznam prianí priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardcode">
-    <Value>Card code</Value>
+    <Value>Kód karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardcode.required">
-    <Value>Enter card code</Value>
+    <Value>Zadajte kód karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardcode.wrong">
-    <Value>Wrong card code</Value>
+    <Value>Nesprávny kód karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardholdername">
-    <Value>Cardholder name</Value>
+    <Value>Meno držiteľa karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardholdername.required">
-    <Value>Enter cardholder name</Value>
+    <Value>Zadajte meno držiteľa karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardnumber">
-    <Value>Card number</Value>
+    <Value>Číslo karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardnumber.required">
-    <Value>Enter card number</Value>
+    <Value>Zadajte číslo karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.cardnumber.wrong">
-    <Value>Wrong card number</Value>
+    <Value>Nesprávne číslo karty</Value>
   </LocaleResource>
   <LocaleResource Name="payment.expirationdate">
-    <Value>Expiration date</Value>
+    <Value>Dátum expirácie</Value>
   </LocaleResource>
   <LocaleResource Name="payment.expirationdate.expired">
-    <Value>Card is expired</Value>
+    <Value>Platnosť karty vypršala</Value>
   </LocaleResource>
   <LocaleResource Name="payment.expiremonth.required">
-    <Value>Expire month is required</Value>
+    <Value>Vyžaduje sa mesiac expirácie</Value>
   </LocaleResource>
   <LocaleResource Name="payment.expireyear.required">
-    <Value>Expire year is required</Value>
+    <Value>Vyžaduje sa rok expirácie</Value>
   </LocaleResource>
   <LocaleResource Name="payment.selectcreditcard">
-    <Value>Select credit card</Value>
+    <Value>Vyberte kreditnú kartu</Value>
   </LocaleResource>
   <LocaleResource Name="paymentmethod.notavailablemethodserror">
-    <Value>Your order cannot be completed at this time as there is no payment methods available for it.</Value>
+    <Value>Vašu objednávku momentálne nemožno dokončiť, pretože pre ňu nie sú k dispozícii žiadne spôsoby platby.</Value>
   </LocaleResource>
   <LocaleResource Name="paymentmethod.specifymethoderror">
-    <Value>Please specify payment method.</Value>
+    <Value>Zadajte spôsob platby.</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.address">
-    <Value>Address: {0}</Value>
+    <Value>Adresa: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.address2">
-    <Value>Address 2: {0}</Value>
+    <Value>Adresa 2: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.billinginformation">
-    <Value>Billing Information:</Value>
+    <Value>Informácie o platbe:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.company">
-    <Value>Company: {0}</Value>
+    <Value>Spoločnosť: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.discount">
-    <Value>Discount:</Value>
+    <Value>Zľava:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.fax">
     <Value>Fax: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.giftcardinfo">
-    <Value>Gift card ({0}):</Value>
+    <Value>Darčeková karta ({0}):</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.name">
-    <Value>Name: {0}</Value>
+    <Value>Názov: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.order#">
-    <Value>Order# {0}</Value>
+    <Value>Objednávka #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.orderdate">
-    <Value>Date: {0}</Value>
+    <Value>Dátum: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.ordernotes">
-    <Value>Order notes:</Value>
+    <Value>Poznámky k objednávke:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.ordernotes.createdon">
-    <Value>Created on</Value>
+    <Value>Vytvorené</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.ordernotes.note">
-    <Value>Note</Value>
+    <Value>Poznámka</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.ordertotal">
-    <Value>Order total:</Value>
+    <Value>Celková suma objednávky:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.paymentmethod">
-    <Value>Payment method: {0}</Value>
+    <Value>Spôsob platby: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.paymentmethodadditionalfee">
-    <Value>Payment Method Additional Fee:</Value>
+    <Value>Doplnkový poplatok spôsobu platby:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.phone">
-    <Value>Phone: {0}</Value>
+    <Value>Telefń: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.pickup">
-    <Value>Pickup point:</Value>
+    <Value>Miesto vyzdvihnutia:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.product(s)">
-    <Value>Product(s)</Value>
+    <Value>Produkty</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.productname">
-    <Value>Name</Value>
+    <Value>Meno</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.productprice">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.productquantity">
-    <Value>Qty</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.producttotal">
-    <Value>Total</Value>
+    <Value>Celkom</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.rewardpoints">
-    <Value>{0} reward points:</Value>
+    <Value>Body odmeny: {0}:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.shipping">
-    <Value>Shipping:</Value>
+    <Value>Doprava:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.shippinginformation">
-    <Value>Shipping Information:</Value>
+    <Value>Informácie o dodaní:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.shippingmethod">
-    <Value>Shipping method: {0}</Value>
+    <Value>Spôsob dopravy: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.sub-total">
-    <Value>Sub-total:</Value>
+    <Value>Medzisúčet:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.tax">
-    <Value>Tax:</Value>
+    <Value>Daň:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.taxrate">
-    <Value>Tax {0}%:</Value>
+    <Value>Daň {0}%:</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.vatnumber">
-    <Value>VAT number: {0}</Value>
+    <Value>Identifikačné číslo DPH: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfinvoice.vendorname">
-    <Value>Vendor name</Value>
+    <Value>Meno predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.address">
-    <Value>Address: {0}</Value>
+    <Value>Adresa: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.address2">
-    <Value>Address 2: {0}</Value>
+    <Value>Adresa 2: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.company">
-    <Value>Company: {0}</Value>
+    <Value>Spoločnosť: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.name">
-    <Value>Name: {0}</Value>
+    <Value>Meno: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.order">
-    <Value>Order #{0}</Value>
+    <Value>Objednávka #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.phone">
-    <Value>Phone: {0}</Value>
+    <Value>Telefón: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.productname">
-    <Value>Product Name</Value>
+    <Value>Meno produktu</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.qty">
-    <Value>Quantity</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.shipment">
-    <Value>Shipment #{0}</Value>
+    <Value>Zásielka #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.shippingmethod">
-    <Value>Shipping method: {0}</Value>
+    <Value>Spôsob dopravy: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="pdfpackagingslip.sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="pdfproductcatalog.price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="pdfproductcatalog.sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="pdfproductcatalog.stockquantity">
-    <Value>Stock quantity</Value>
+    <Value>Skladové množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="pdfproductcatalog.weight">
-    <Value>Weight</Value>
+    <Value>Hmotnosť</Value>
   </LocaleResource>
   <LocaleResource Name="permission.accessadminpanel">
-    <Value>Access admin area</Value>
+    <Value>Prístup do administrátorskej oblasti</Value>
   </LocaleResource>
   <LocaleResource Name="permission.accessclosedstore">
-    <Value>Public store. Access a closed store</Value>
+    <Value>Verejný obchod. Vstúpte do uzavretého obchodu</Value>
   </LocaleResource>
   <LocaleResource Name="permission.accesswebservice">
-    <Value>Plugins. Access Web Service</Value>
+    <Value>Pluginy. Prístup k webovej službe</Value>
   </LocaleResource>
   <LocaleResource Name="permission.allowcustomerimpersonation">
     <Value>Admin area. Allow Customer Impersonation</Value>
@@ -3508,16 +3508,16 @@
     <Value>Public store. Allow navigation</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.discountrules.customerroles.fields.customerroleid.required">
-    <Value>Customer role is required</Value>
+    <Value>Vyžaduje sa rola zákazníka</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.discountrules.customerroles.fields.discountid.required">
-    <Value>Discount is required</Value>
+    <Value>Je potrebná zľava</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.externalauth.facebook.instructions">
     <Value>&lt;p&gt;To configure authentication with Facebook, please follow these steps:&lt;br/&gt;&lt;br/&gt;&lt;ol&gt;&lt;li&gt;Navigate to the &lt;a href="https://developers.facebook.com/apps" target ="_blank" &gt; Facebook for Developers&lt;/a&gt; page and sign in. If you don't already have a Facebook account, use the &lt;b&gt;Sign up for Facebook&lt;/b&gt; link on the login page to create one.&lt;/li&gt;&lt;li&gt;Tap the &lt;b&gt;+ Add a New App button&lt;/b&gt; in the upper right corner to create a new App ID. (If this is your first app with Facebook, the text of the button will be &lt;b&gt;Create a New App&lt;/b&gt;.)&lt;/li&gt;&lt;li&gt;Fill out the form and tap the &lt;b&gt;Create App ID button&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Product Setup&lt;/b&gt; page is displayed, letting you select the features for your new app. Click &lt;b&gt;Get Started&lt;/b&gt; on &lt;b&gt;Facebook Login&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Click the &lt;b&gt;Settings&lt;/b&gt; link in the menu at the left, you are presented with the &lt;b&gt;Client OAuth Settings&lt;/b&gt; page with some defaults already set.&lt;/li&gt;&lt;li&gt;Enter "{0:s}signin-facebook" into the &lt;b&gt;Valid OAuth Redirect URIs&lt;/b&gt; field.&lt;/li&gt;&lt;li&gt;Click &lt;b&gt;Save Changes&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Click the &lt;b&gt;Dashboard&lt;/b&gt; link in the left navigation.&lt;/li&gt;&lt;li&gt;Copy your App ID and App secret below.&lt;/li&gt;&lt;/ol&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.additionalfee">
-    <Value>Additional fee</Value>
+    <Value>Dodatočný poplatok</Value>
   </LocaleResource>
   <LocaleResource Name="plugins.payment.checkmoneyorder.additionalfee.hint">
     <Value>The additional fee.</Value>
