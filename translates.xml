@@ -4237,1245 +4237,1245 @@
     <Value>Odoslať súkromnú správu</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.sendbutton">
-    <Value>Send</Value>
+    <Value>Odoslať</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.subject">
-    <Value>Subject:</Value>
+    <Value>Predmet:</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.send.to">
-    <Value>To:</Value>
+    <Value>Komu:</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.sent.noitems">
-    <Value>No sent messages</Value>
+    <Value>Žiadne odoslané správy</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.sentitems">
-    <Value>Sent Items</Value>
+    <Value>Odoslané položky</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.subjectcannotbeempty">
-    <Value>Subject cannot be empty</Value>
+    <Value>Predmet nemôže byť prázdny</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.totalunread">
-    <Value>({0} Unread)</Value>
+    <Value>({0} neprečítané)</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.backbutton">
-    <Value>Back to messages</Value>
+    <Value>Späť na správy</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.deletebutton">
-    <Value>Delete</Value>
+    <Value>Vymazať</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.from">
-    <Value>From:</Value>
+    <Value>Od:</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.replybutton">
-    <Value>Reply</Value>
+    <Value>Odpovedať</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.subject">
-    <Value>Subject:</Value>
+    <Value>Predmet:</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.to">
-    <Value>To:</Value>
+    <Value>Komu:</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.view.viewmessage">
-    <Value>View Message</Value>
+    <Value>Zobraziť správu</Value>
   </LocaleResource>
   <LocaleResource Name="privatemessages.youhaveunreadpm">
-    <Value>You have {0} unread message(s) in your Inbox</Value>
+    <Value>V doručenej pošte máte {0} neprečítaných správ</Value>
   </LocaleResource>
   <LocaleResource Name="productattributes.quantity">
-    <Value>- quantity {0}</Value>
+    <Value>- množstvo {0}</Value>
   </LocaleResource>
   <LocaleResource Name="products.alsopurchased">
-    <Value>Customers who bought this item also bought</Value>
+    <Value>Zákazníci, ktorí si kúpili túto položku, tiež kúpili</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability">
-    <Value>Availability</Value>
+    <Value>Dostupnosť</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.availabilityrange">
-    <Value>Available in {0}</Value>
+    <Value>K dispozícii {0}</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.backordering">
-    <Value>Out of Stock - on backorder and will be dispatched once in stock.</Value>
+    <Value>Nie je na sklade - na objednávku a bude odoslané, hneď ako bude skladom.</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.backorderingwithdate">
-    <Value>Out of stock - on backorder and will be dispatched once in stock ({0}).</Value>
+    <Value>Nie je na sklade - na objednávku a bude odoslané, hneď ako bude na sklade ({0}).</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.instock">
-    <Value>In stock</Value>
+    <Value>Skladom</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.instockwithquantity">
-    <Value>{0} in stock</Value>
+    <Value>{0} Skladom</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.outofstock">
-    <Value>Out of stock</Value>
+    <Value>Nie je na sklade</Value>
   </LocaleResource>
   <LocaleResource Name="products.availability.selectrequiredattributes">
-    <Value>Please select required attribute(s)</Value>
+    <Value>Vyberte požadované atribúty</Value>
   </LocaleResource>
   <LocaleResource Name="products.baseprice">
-    <Value>equates to {0} per {1} {2}</Value>
+    <Value>rovná sa {0} za {1} {2}</Value>
   </LocaleResource>
   <LocaleResource Name="products.breadcrumb.top">
-    <Value>Home</Value>
+    <Value>Domov</Value>
   </LocaleResource>
   <LocaleResource Name="products.callforprice">
-    <Value>Call for pricing</Value>
+    <Value>Vyžiadajte si cenovú ponuku</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare">
-    <Value>Compare products</Value>
+    <Value>Porovnajte produkty</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.addtocomparelist">
-    <Value>Add to compare list</Value>
+    <Value>Pridať do porovnávacieho zoznamu</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.clear">
-    <Value>Clear list</Value>
+    <Value>Vyčistiť list</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.fulldescription">
-    <Value>Full description</Value>
+    <Value>Úplný popis</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.list">
-    <Value>Compare products list</Value>
+    <Value>Porovnať zoznam produktov</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.name">
-    <Value>Name</Value>
+    <Value>Meno</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.nodescription">
-    <Value>No description!</Value>
+    <Value>Žiadny popis!</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.noitems">
-    <Value>You have no items to compare.</Value>
+    <Value>Nemáte žiadne položky na porovnanie.</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.picture">
-    <Value>Picture</Value>
+    <Value>Obrázok</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.shortdescription">
-    <Value>Short description</Value>
+    <Value>Krátky popis</Value>
   </LocaleResource>
   <LocaleResource Name="products.compare.title">
-    <Value>Compare products</Value>
+    <Value>Porovnajte produkty</Value>
   </LocaleResource>
   <LocaleResource Name="products.deliverydate">
-    <Value>Delivery date</Value>
+    <Value>Dátum doručenia</Value>
   </LocaleResource>
   <LocaleResource Name="products.details">
-    <Value>Details</Value>
+    <Value>Podrobnosti</Value>
   </LocaleResource>
   <LocaleResource Name="products.discontinued">
-    <Value>Sorry - this product is no longer available</Value>
+    <Value>Ospravedlňujeme sa - tento produkt už nie je k dispozícii</Value>
   </LocaleResource>
   <LocaleResource Name="products.downloadsample">
-    <Value>Download sample</Value>
+    <Value>Stiahnite si ukážku</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend">
-    <Value>Email a friend</Value>
+    <Value>Email priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.button">
-    <Value>Send email</Value>
+    <Value>Poslať email</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.friendemail">
-    <Value>Friend's email</Value>
+    <Value>Email priateľa</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.friendemail.hint">
-    <Value>Enter friend's email.</Value>
+    <Value>Zadajte email priateľa.</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.friendemail.required">
-    <Value>Enter friend's email</Value>
+    <Value>Zadajte email priateľa</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.onlyregisteredusers">
-    <Value>Only registered customers can use email a friend feature</Value>
+    <Value>Iba registrovaní zákazníci môžu používať funkciu emailu priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.personalmessage">
-    <Value>Personal message</Value>
+    <Value>Osobná správa</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.personalmessage.hint">
-    <Value>Enter personal message (optional).</Value>
+    <Value>Zadajte osobnú správu (voliteľné).</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.successfullysent">
-    <Value>Your message has been sent.</Value>
+    <Value>Vaša správa bola odoslaná.</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.title">
-    <Value>Email a friend</Value>
+    <Value>Email priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.youremailaddress">
-    <Value>Your email address</Value>
+    <Value>Vaša emailová adresa</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.youremailaddress.hint">
-    <Value>Enter your email address.</Value>
+    <Value>Zadajte vašu emailovú adresu.</Value>
   </LocaleResource>
   <LocaleResource Name="products.emailafriend.youremailaddress.required">
-    <Value>Enter your email</Value>
+    <Value>Zadajte svoj email</Value>
   </LocaleResource>
   <LocaleResource Name="products.enterproductprice">
-    <Value>Please enter your price</Value>
+    <Value>Zadajte svoju cenu</Value>
   </LocaleResource>
   <LocaleResource Name="products.enterproductprice.range">
-    <Value>The price must be from {0} to {1}</Value>
+    <Value>Cena musí byť od {0} do {1}</Value>
   </LocaleResource>
   <LocaleResource Name="products.estimateshipping.estimateddeliveryprefix">
-    <Value>Estimated Delivery on</Value>
+    <Value>Odhadované doručenie dňa</Value>
   </LocaleResource>
   <LocaleResource Name="products.estimateshipping.noselectedshippingoption">
-    <Value>Please select the address you want to ship to</Value>
+    <Value>Vyberte adresu, na ktorú chcete odoslať</Value>
   </LocaleResource>
   <LocaleResource Name="products.estimateshipping.pricetitle">
-    <Value>Shipping:</Value>
+    <Value>Doprava:</Value>
   </LocaleResource>
   <LocaleResource Name="products.estimateshipping.toaddress">
-    <Value>to</Value>
+    <Value>do</Value>
   </LocaleResource>
   <LocaleResource Name="products.estimateshipping.viaprovider">
-    <Value>via</Value>
+    <Value>cez</Value>
   </LocaleResource>
   <LocaleResource Name="products.excltaxsuffix">
-    <Value>{0} excl tax</Value>
+    <Value>{0} bez dane</Value>
   </LocaleResource>
   <LocaleResource Name="products.featuredproducts">
-    <Value>Featured products</Value>
+    <Value>Vybrané produkty</Value>
   </LocaleResource>
   <LocaleResource Name="products.freeshipping">
-    <Value>Free shipping</Value>
+    <Value>Doprava zdarma</Value>
   </LocaleResource>
   <LocaleResource Name="products.giftcard.message">
-    <Value>Message</Value>
+    <Value>Správa</Value>
   </LocaleResource>
   <LocaleResource Name="products.giftcard.recipientemail">
-    <Value>Recipient's Email</Value>
+    <Value>Email príjemcu</Value>
   </LocaleResource>
   <LocaleResource Name="products.giftcard.recipientname">
-    <Value>Recipient's Name</Value>
+    <Value>Meno príjemcu</Value>
   </LocaleResource>
   <LocaleResource Name="products.giftcard.senderemail">
-    <Value>Your Email</Value>
+    <Value>Váš email</Value>
   </LocaleResource>
   <LocaleResource Name="products.giftcard.sendername">
-    <Value>Your Name</Value>
+    <Value>Vaše meno</Value>
   </LocaleResource>
   <LocaleResource Name="products.gtin">
-    <Value>GTIN</Value>
+    <Value>Globálne číslo obchodnej položky</Value>
   </LocaleResource>
   <LocaleResource Name="products.incltaxsuffix">
-    <Value>{0} incl tax</Value>
+    <Value>{0} vrátane dane</Value>
   </LocaleResource>
   <LocaleResource Name="products.manufacturer">
-    <Value>Manufacturer</Value>
+    <Value>Výrobca</Value>
   </LocaleResource>
   <LocaleResource Name="products.manufacturerpartnumber">
-    <Value>Manufacturer part number</Value>
+    <Value>Číslo dielu výrobcu</Value>
   </LocaleResource>
   <LocaleResource Name="products.manufacturers">
-    <Value>Manufacturers</Value>
+    <Value>Výrobcovia</Value>
   </LocaleResource>
   <LocaleResource Name="products.minimumquantitynotification">
-    <Value>This product has a minimum quantity of {0}</Value>
+    <Value>Tento produkt má minimálne množstvo {0}</Value>
   </LocaleResource>
   <LocaleResource Name="products.newproducts">
-    <Value>New products</Value>
+    <Value>Nové produkty</Value>
   </LocaleResource>
   <LocaleResource Name="products.newproducts.rss">
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="products.newproducts.rss.hint">
-    <Value>Click here to be informed automatically when we add new items to our site.</Value>
+    <Value>Kliknite sem, aby ste boli automaticky informovaní, keď na naše stránky pridáme nové položky.</Value>
   </LocaleResource>
   <LocaleResource Name="products.noassociatedproducts">
-    <Value>This product is sold out</Value>
+    <Value>Tento produkt je vypredaný</Value>
   </LocaleResource>
   <LocaleResource Name="products.price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.oldprice">
-    <Value>Old price</Value>
+    <Value>Stará cena</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.rental.days">
-    <Value>{0} per {1} day(s)</Value>
+    <Value>{0} za {1} deň(dni)</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.rental.months">
-    <Value>{0} per {1} month(s)</Value>
+    <Value>{0} za {1} mesiac(e)</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.rental.weeks">
-    <Value>{0} per {1} week(s)</Value>
+    <Value>{0} za {1} týždeň(týždne)</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.rental.years">
-    <Value>{0} per {1} year(s)</Value>
+    <Value>{0} za {1} rok(y)</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.rentalprice">
-    <Value>Rental price</Value>
+    <Value>Cena prenájmu</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.taxshipping.excltax">
-    <Value>excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Nepočítajúc &lt;a href="{0}"&gt;dopravu&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.taxshipping.incltax">
-    <Value>excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Vrátane &lt;a href="{0}"&gt;dopravu&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="products.price.withdiscount">
-    <Value>Your price</Value>
+    <Value>Vaša cena</Value>
   </LocaleResource>
   <LocaleResource Name="products.pricerangefrom">
-    <Value>From {0}</Value>
+    <Value>od {0}</Value>
   </LocaleResource>
   <LocaleResource Name="products.productattributes.dropdownlist.defaultitem">
-    <Value>Please select</Value>
+    <Value>Prosím vyber</Value>
   </LocaleResource>
   <LocaleResource Name="products.productattributes.notavailable">
-    <Value>Not available</Value>
+    <Value>Nie je k dispozícií</Value>
   </LocaleResource>
   <LocaleResource Name="products.productattributes.priceadjustment">
     <Value>{0} [{1}{2}]</Value>
   </LocaleResource>
   <LocaleResource Name="products.productattributes.priceadjustment.peritem">
-    <Value>per item</Value>
+    <Value>za položku</Value>
   </LocaleResource>
   <LocaleResource Name="products.productattributes.priceadjustment.quantity">
-    <Value>Enter quantity:</Value>
+    <Value>Zadajte množstvo:</Value>
   </LocaleResource>
   <LocaleResource Name="products.producthasbeenaddedtocomparelist">
-    <Value>The product has been added to your product comparison</Value>
+    <Value>Produkt bol pridaný do vášho porovnania produktov</Value>
   </LocaleResource>
   <LocaleResource Name="products.producthasbeenaddedtocomparelist.link">
-    <Value>The product has been added to your &lt;a href="{0}"&gt;product comparison&lt;/a&gt;</Value>
+    <Value>Produkt bol pridaný do vášho&lt;a href="{0}"&gt;porovnania produktov&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="products.producthasbeenaddedtothecart">
-    <Value>The product has been added to your shopping cart</Value>
+    <Value>Produkt bol vložený do vášho nákupného košíka</Value>
   </LocaleResource>
   <LocaleResource Name="products.producthasbeenaddedtothecart.link">
-    <Value>The product has been added to your &lt;a href="{0}"&gt;shopping cart&lt;/a&gt;</Value>
+    <Value>Produkt bol vložený do vášho &lt;a href="{0}"&gt;nákupného košíka&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="products.producthasbeenaddedtothewishlist">
-    <Value>The product has been added to your wishlist</Value>
+    <Value>Produkt bol vložený do vášho zoznamu prianí</Value>
   </LocaleResource>
   <LocaleResource Name="products.producthasbeenaddedtothewishlist.link">
-    <Value>The product has been added to your &lt;a href="{0}"&gt;wishlist&lt;/a&gt;</Value>
+    <Value>Produkt bol vložený do vášho  &lt;a href="{0}"&gt;zoznamu prianí&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="products.qty">
-    <Value>Qty</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="products.qty.arialabel">
-    <Value>Enter a quantity</Value>
+    <Value>Zadajte množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="products.quantityshouldbepositive">
-    <Value>Quantity should be positive</Value>
+    <Value>Množstvo by malo byť kladné</Value>
   </LocaleResource>
   <LocaleResource Name="products.recentlyviewedproducts">
-    <Value>Recently viewed products</Value>
+    <Value>Nedávno zobrazené produkty</Value>
   </LocaleResource>
   <LocaleResource Name="PRODUCTS.RELATEDPRODUCTS">
-    <Value>Related products</Value>
+    <Value>Súvisiace produkty</Value>
   </LocaleResource>
   <LocaleResource Name="products.rentalenddate">
-    <Value>End date</Value>
+    <Value>Dátum ukončenia</Value>
   </LocaleResource>
   <LocaleResource Name="products.rentalstartdate">
-    <Value>Start date</Value>
+    <Value>Dátum začiatku</Value>
   </LocaleResource>
   <LocaleResource Name="products.sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="products.specs">
-    <Value>Products specifications</Value>
+    <Value>Špecifikácia produktov</Value>
   </LocaleResource>
   <LocaleResource Name="products.specs.attributename">
-    <Value>Attribute name</Value>
+    <Value>Názov atribútu</Value>
   </LocaleResource>
   <LocaleResource Name="products.specs.attributevalue">
-    <Value>Attribute value</Value>
+    <Value>Hodnota atribútu</Value>
   </LocaleResource>
   <LocaleResource Name="products.tags">
-    <Value>Product tags</Value>
+    <Value>Značky produktov</Value>
   </LocaleResource>
   <LocaleResource Name="products.tags.all">
-    <Value>All product tags</Value>
+    <Value>Všetky značky produktov</Value>
   </LocaleResource>
   <LocaleResource Name="products.tags.count">
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="products.tags.popular">
-    <Value>Popular tags</Value>
+    <Value>Populárne značky</Value>
   </LocaleResource>
   <LocaleResource Name="products.tags.popular.viewall">
-    <Value>View all</Value>
+    <Value>Zobraziť všetky</Value>
   </LocaleResource>
   <LocaleResource Name="products.tags.productstaggedwith">
-    <Value>Products tagged with '{0}'</Value>
+    <Value>Výrobky označené značkou '{0}'</Value>
   </LocaleResource>
   <LocaleResource Name="products.tierprices">
-    <Value>PRICE BREAKS - The more you buy, the more you save</Value>
+    <Value>CENOVÉ PRECHODY - Čím viac nakúpite, tým viac ušetríte</Value>
   </LocaleResource>
   <LocaleResource Name="products.tierprices.price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="products.tierprices.quantity">
-    <Value>Quantity</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="products.vendor">
-    <Value>Vendor</Value>
+    <Value>Predajca</Value>
   </LocaleResource>
   <LocaleResource Name="products.wishlist.addtowishlist">
-    <Value>Add to wishlist</Value>
+    <Value>Pridať do zoznamu želaní</Value>
   </LocaleResource>
   <LocaleResource Name="products.wishlist.addtowishlist.update">
-    <Value>Update</Value>
+    <Value>Aktualizovať</Value>
   </LocaleResource>
   <LocaleResource Name="profile.country">
-    <Value>Country</Value>
+    <Value>Krajina</Value>
   </LocaleResource>
   <LocaleResource Name="profile.dateofbirth">
-    <Value>Date Of Birth</Value>
+    <Value>Dátum narodenia</Value>
   </LocaleResource>
   <LocaleResource Name="profile.joindate">
-    <Value>Join Date</Value>
+    <Value>Dátum registrácie</Value>
   </LocaleResource>
   <LocaleResource Name="profile.latestposts">
-    <Value>Latest Posts</Value>
+    <Value>Najnovšie príspevky</Value>
   </LocaleResource>
   <LocaleResource Name="profile.latestposts.noposts">
-    <Value>No posts found</Value>
+    <Value>Nenašli sa žiadne príspevky</Value>
   </LocaleResource>
   <LocaleResource Name="profile.personalinfo">
-    <Value>Profile Info</Value>
+    <Value>Informácie o profile</Value>
   </LocaleResource>
   <LocaleResource Name="profile.postedon">
-    <Value>Posted</Value>
+    <Value>Uverejnené</Value>
   </LocaleResource>
   <LocaleResource Name="profile.profileof">
-    <Value>Profile: {0}</Value>
+    <Value>Profil: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="profile.statistics">
-    <Value>Statistics</Value>
+    <Value>Štatistiky</Value>
   </LocaleResource>
   <LocaleResource Name="profile.topic">
-    <Value>Topic</Value>
+    <Value>Téma</Value>
   </LocaleResource>
   <LocaleResource Name="profile.totalposts">
-    <Value>Total Posts</Value>
+    <Value>Celkový počet príspevkov</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.comments">
-    <Value>Comments</Value>
+    <Value>Komentáre</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.noitemssubmitted">
-    <Value>Your return request has not been submitted because you haven't chosen any items.</Value>
+    <Value>Vaša požiadavka na vrátenie nebola odoslaná, pretože ste si nevybrali žiadne položky.</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.products.name">
-    <Value>Product</Value>
+    <Value>Produkt</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.products.price">
-    <Value>Unit price</Value>
+    <Value>Jednotková cena</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.products.quantity">
-    <Value>Qty. to return</Value>
+    <Value>Množstvo na vrátenie</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.returnaction">
-    <Value>Return action</Value>
+    <Value>Akcia návratu</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.returnreason">
-    <Value>Return reason</Value>
+    <Value>Dôvod vrátenia</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.selectproduct(s)">
-    <Value>Which items do you want to return?</Value>
+    <Value>Ktoré položky chcete vrátiť?</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.submit">
-    <Value>Submit return request</Value>
+    <Value>Odošlite žiadosť o vrátenie</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.submitted">
-    <Value>Your return request has been submitted successfully.</Value>
+    <Value>Vaša žiadosť o vrátenie bola úspešne odoslaná.</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.title">
-    <Value>Return item(s) from &lt;a href="{0}"&gt;order #{1}&lt;/a&gt;</Value>
+    <Value>Vrátiť položky z &lt;a href="{0}"&gt;objednávky #{1}&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.uploadedfile">
-    <Value>Upload (any additional document, scan, etc)</Value>
+    <Value>Nahrať (akýkoľvek ďalší dokument, skenovanie atď.)</Value>
   </LocaleResource>
   <LocaleResource Name="returnrequests.whyreturning">
-    <Value>Why are you returning these items?</Value>
+    <Value>Prečo vraciate tieto položky?</Value>
   </LocaleResource>
   <LocaleResource Name="reviews">
-    <Value>Reviews</Value>
+    <Value>Recenzie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.alreadyaddedproductreviews">
-    <Value>Product review is already added for this product</Value>
+    <Value>K tomuto produktu je už pridaná recenzia produktu</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.date">
-    <Value>Date</Value>
+    <Value>Dátum</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.existingreviews">
-    <Value>Existing reviews</Value>
+    <Value>Existujúce recenzie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating">
-    <Value>Rating</Value>
+    <Value>Hodnotenie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating.bad">
-    <Value>Bad</Value>
+    <Value>Zle</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating.excellent">
-    <Value>Excellent</Value>
+    <Value>Vynikajúce</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating.good">
-    <Value>Good</Value>
+    <Value>Dobre</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating.notbadnotexcellent">
-    <Value>Not bad but also not excellent</Value>
+    <Value>Nie je to zlé, ale ani vynikajúce</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating.notbadnotgood">
     <Value>Neutrálne</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.rating.notgood">
-    <Value>Not good</Value>
+    <Value>Nie dobré</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.reviewtext">
-    <Value>Review text</Value>
+    <Value>Text recenzie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.reviewtext.required">
-    <Value>Review text is required.</Value>
+    <Value>Text recenzie je povinný.</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.title">
-    <Value>Review title</Value>
+    <Value>Názov recenzie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.title.maxlengthvalidation">
-    <Value>Max length of product review title is {0} chars</Value>
+    <Value>Maximálna dĺžka názvu recenzie produktu je {0} znakov</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.fields.title.required">
-    <Value>Review title is required.</Value>
+    <Value>Názov recenzie je povinný.</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.from">
-    <Value>From</Value>
+    <Value>Od</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.helpfulness.onlyregistered">
-    <Value>Only registered customers can set review helpfulness</Value>
+    <Value>Len registrovaní zákazníci si môžu nastaviť nápomocnosť pri kontrole</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.helpfulness.successfullyvoted">
-    <Value>Successfully voted</Value>
+    <Value>Hlasovanie úspešne</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.helpfulness.washelpful?">
-    <Value>Was this review helpful?</Value>
+    <Value>Bola táto recenzia užitočná?</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.helpfulness.yourownreview">
-    <Value>You cannot vote for your own review</Value>
+    <Value>Nemôžete hlasovať za vlastnú recenziu</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.onlyregistereduserscanwritereviews">
-    <Value>Only registered users can write reviews</Value>
+    <Value>Recenzie môžu písať iba registrovaní užívatelia</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.overview.addnew">
-    <Value>Add your review</Value>
+    <Value>Pridajte svoju recenziu</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.overview.first">
-    <Value>Be the first to review this product</Value>
+    <Value>Buďte prví, kto ohodnotí tento produkt</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.overview.reviews">
-    <Value>review(s)</Value>
+    <Value>recenzie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.productreviewpossibleonlyafterpurchasing">
-    <Value>Product can be reviewed only after purchasing it</Value>
+    <Value>Produkt je možné recenzovať až po jeho zakúpení</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.productreviewsfor">
-    <Value>Product reviews for</Value>
+    <Value>Recenzie produktu na</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.reply">
-    <Value>A manager responded to this review</Value>
+    <Value>Na túto recenziu odpovedal manažér</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.seeafterapproving">
-    <Value>You will see the product review after approving by a store administrator.</Value>
+    <Value>Recenziu produktu uvidíte po schválení správcom obchodu.</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.submitbutton">
-    <Value>Submit review</Value>
+    <Value>Odoslať recenziu</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.successfullyadded">
-    <Value>Product review is successfully added.</Value>
+    <Value>Recenzia produktu bola úspešne pridaná.</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.totalreviews">
-    <Value>{0} review(s)</Value>
+    <Value>{0} recenzie</Value>
   </LocaleResource>
   <LocaleResource Name="reviews.write">
-    <Value>Write your own review</Value>
+    <Value>Napíšte vlastnú recenziu</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.activatedlater">
-    <Value>The points will be activated on {0}</Value>
+    <Value>Body budú aktivované {0}</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.currentbalance">
-    <Value>Your current balance is {0} reward points ({1}).</Value>
+    <Value>Váš aktuálny zostatok je {0} bonusových bodov ({1}).</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.fields.createddate">
-    <Value>Date</Value>
+    <Value>Dátum</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.fields.enddate">
-    <Value>End date</Value>
+    <Value>Dátum ukončenia</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.fields.message">
-    <Value>Message</Value>
+    <Value>Správa</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.fields.points">
-    <Value>Points</Value>
+    <Value>Body</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.fields.pointsbalance">
-    <Value>Points balance</Value>
+    <Value>Bodová bilancia</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.history">
-    <Value>History</Value>
+    <Value>História</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.message.earnedfororder">
-    <Value>Earned promotion for order #{0}</Value>
+    <Value>Získaná akcia za objednávku #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.message.earnedforregistration">
-    <Value>Registered as customer</Value>
+    <Value>Registrovaný ako zákazník</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.message.redeemedfororder">
-    <Value>Redeemed for order #{0}</Value>
+    <Value>Uplatnené za objednávku #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.message.reducedfororder">
-    <Value>Reduced promotion for order #{0}</Value>
+    <Value>Znížená akcia na objednávku #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.message.returnedfororder">
-    <Value>Returned back for order #{0}</Value>
+    <Value>Vrátené späť pre objednávku #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.minimumbalance">
-    <Value>Minimum balance allowed to use is {0} reward points ({1}).</Value>
+    <Value>Minimálny zostatok, ktorý je možné použiť, je {0} bonusových bodov ({1}).</Value>
   </LocaleResource>
   <LocaleResource Name="rewardpoints.nohistory">
-    <Value>There is no balance history yet</Value>
+    <Value>Zatiaľ neexistuje žiadna bilančná história</Value>
   </LocaleResource>
   <LocaleResource Name="scheduletasks.error">
-    <Value>The "{0}" scheduled task failed with the "{1}" error (Task type: "{2}". Store name: "{3}". Task run address: "{4}").</Value>
+    <Value>Naplánovaná úloha „{0}“ zlyhala s chybou „{1}“ (Typ úlohy: „{2}“. Názov obchodu: „{3}“. Adresa spustenia úlohy: „{4}“).</Value>
   </LocaleResource>
   <LocaleResource Name="scheduletasks.timeouterror">
-    <Value>A scheduled task canceled. Timeout expired.</Value>
+    <Value>Naplánovaná úloha bola zrušená. Časový limit vypršal.</Value>
   </LocaleResource>
   <LocaleResource Name="search">
-    <Value>Search</Value>
+    <Value>Hľadať</Value>
   </LocaleResource>
   <LocaleResource Name="search.advancedsearch">
-    <Value>Advanced search</Value>
+    <Value>Pokročilé vyhľadávanie</Value>
   </LocaleResource>
   <LocaleResource Name="search.button">
-    <Value>Search</Value>
+    <Value>Hľadať</Value>
   </LocaleResource>
   <LocaleResource Name="search.category">
-    <Value>Category</Value>
+    <Value>Kategória</Value>
   </LocaleResource>
   <LocaleResource Name="search.entersearchterms">
-    <Value>Please enter some search keyword</Value>
+    <Value>Zadajte kľúčové slovo pre vyhľadávanie</Value>
   </LocaleResource>
   <LocaleResource Name="search.includesubcategories">
-    <Value>Automatically search sub categories</Value>
+    <Value>Automaticky vyhľadávať podkategórie</Value>
   </LocaleResource>
   <LocaleResource Name="search.manufacturer">
-    <Value>Manufacturer</Value>
+    <Value>Výrobca</Value>
   </LocaleResource>
   <LocaleResource Name="search.pricerange">
-    <Value>Price range</Value>
+    <Value>Cenové rozpätie</Value>
   </LocaleResource>
   <LocaleResource Name="search.pricerange.from">
-    <Value>From</Value>
+    <Value>Od</Value>
   </LocaleResource>
   <LocaleResource Name="search.pricerange.to">
-    <Value>to</Value>
+    <Value>Do</Value>
   </LocaleResource>
   <LocaleResource Name="search.searchbox.searchpagelink">
-    <Value>View all results...</Value>
+    <Value>Zobraziť všetky výsledky...</Value>
   </LocaleResource>
   <LocaleResource Name="search.searchbox.text.label">
-    <Value>Search store</Value>
+    <Value>Hľadať v obchode</Value>
   </LocaleResource>
   <LocaleResource Name="search.searchbox.tooltip">
-    <Value>Search store</Value>
+    <Value>Hľadať v obchode</Value>
   </LocaleResource>
   <LocaleResource Name="search.searchindescriptions">
-    <Value>Search In product descriptions</Value>
+    <Value>Hľadať v popise produktu</Value>
   </LocaleResource>
   <LocaleResource Name="search.searchterm">
-    <Value>Search keyword</Value>
+    <Value>Hľadať kľúčové slovo</Value>
   </LocaleResource>
   <LocaleResource Name="search.searchtermminimumlengthisncharacters">
-    <Value>Search term minimum length is {0} characters</Value>
+    <Value>Minimálna dĺžka hľadaného výrazu je {0} znakov</Value>
   </LocaleResource>
   <LocaleResource Name="search.vendor">
-    <Value>Vendor</Value>
+    <Value>Predajca</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshipping.city.required">
-    <Value>City is required</Value>
+    <Value>Mesto je povinné</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshipping.country.required">
-    <Value>Country is required</Value>
+    <Value>Krajina je povinná</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshipping.zippostalcode.required">
-    <Value>Zip / postal code is required</Value>
+    <Value>Poštové smerovacie číslo je povinné</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.chooseshippingtitle">
-    <Value>Shipping Method</Value>
+    <Value>Spôsob dopravy</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.city">
-    <Value>City</Value>
+    <Value>Mesto</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.country">
-    <Value>Country</Value>
+    <Value>Krajina</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.noshippingoptions">
-    <Value>No shipping options</Value>
+    <Value>Žiadne možnosti dopravy</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.pickup.pricefrom">
-    <Value>From {0}</Value>
+    <Value>Od {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.product.isnotfound">
-    <Value>Product is not found</Value>
+    <Value>Tovar sa nenašiel</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.selectshippingoption.button">
-    <Value>Apply</Value>
+    <Value>Použiť</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.shippingoption.estimateddelivery">
-    <Value>Estimated Delivery</Value>
+    <Value>Očakávaný dátum doručenia</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.shippingoption.isnotfound">
-    <Value>Selected shipping option is not found</Value>
+    <Value>Vybraná možnosť dopravy sa nenašla</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.shippingoption.name">
-    <Value>Name</Value>
+    <Value>Meno</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.shippingoption.price">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.shiptotitle">
-    <Value>Ship to</Value>
+    <Value>Odoslať do</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.stateprovince">
-    <Value>State / province</Value>
+    <Value>Štát / provincia</Value>
   </LocaleResource>
   <LocaleResource Name="shipping.estimateshippingpopup.zippostalcode">
-    <Value>Zip / postal code</Value>
+    <Value>PSČ</Value>
   </LocaleResource>
   <LocaleResource Name="shippingmethod.notavailablemethodserror">
-    <Value>Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.</Value>
+    <Value>Vašu objednávku momentálne nemožno dokončiť, pretože pre ňu nie sú k dispozícii žiadne spôsoby dodania. Vykonajte potrebné zmeny vo svojej dodacej adrese.</Value>
   </LocaleResource>
   <LocaleResource Name="shippingmethod.specifymethoderror">
-    <Value>Please specify shipping method.</Value>
+    <Value>Zadajte spôsob dopravy.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart">
-    <Value>Shopping cart</Value>
+    <Value>Nákupný košík</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.addtocart">
-    <Value>Add to cart</Value>
+    <Value>Pridať do košíka</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.addtocart.update">
-    <Value>Update</Value>
+    <Value>Aktualizovať</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.addtocomparelist">
-    <Value>Add to compare list</Value>
+    <Value>Pridať do porovnávacieho zoznamu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.addtowishlist">
-    <Value>Add to wishlist</Value>
+    <Value>Pridať do zoznamu želaní</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.allowedquantities">
-    <Value>Allowed quantities for this product: {0}</Value>
+    <Value>Povolené množstvá pre tento produkt: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.associatedattributewarning">
     <Value>{0}. {1}. {2}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.availabilityrange">
-    <Value>Available in {0}</Value>
+    <Value>Dostupné v {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.buyingdisabled">
-    <Value>Buying is disabled for this product</Value>
+    <Value>Nákup tohto produktu je zakázaný</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.cannotloadproduct">
-    <Value>Product (Id={0}) cannot be loaded</Value>
+    <Value>Produkt (Id = {0}) nemožno načítať</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.cannotmixstandardandautoshipproducts">
-    <Value>Your cart has standard and auto-ship (recurring) items. Only one product type is allowed per order.</Value>
+    <Value>Váš košík obsahuje štandardné položky a položky na automatické odosielanie (opakujúce sa). Na jednu objednávku je povolený iba jeden typ produktu.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.cartisempty">
-    <Value>Your Shopping Cart is empty!</Value>
+    <Value>Váš nákupný košík je prázdny!</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.checkoutattributes.priceadjustment">
     <Value>{0} [{1}]</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.conflictingshipmentschedules">
-    <Value>Your cart has auto-ship (recurring) items with conflicting shipment schedules. Only one auto-ship schedule is allowed per order.</Value>
+    <Value>Váš košík obsahuje položky na automatické odosielanie (opakujúce sa) s konfliktnými plánmi dodávok. Na jednu objednávku je povolený iba jeden rozvrh automatického odoslania.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.continueshopping">
-    <Value>Continue shopping</Value>
+    <Value>Pokračovať v nákupe</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.crosssells">
-    <Value>You may also like these items:</Value>
+    <Value>Tiež by sa vám mohli páčiť tieto položky:</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.customerenteredprice.rangeerror">
-    <Value>The price must be from {0} to {1}</Value>
+    <Value>Cena musí byť od {0} do {1}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discount.cannotbeused">
-    <Value>You cannot use this discount coupon because the validation conditions are not met</Value>
+    <Value>Tento zľavový kupón nemôžete použiť, pretože nie sú splnené podmienky overenia</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discount.cannotbeusedanymore">
-    <Value>Sorry, you've used this discount already</Value>
+    <Value>Ospravedlňujeme sa, túto zľavu ste už využili</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discount.cannotbeusedwithgiftcards">
-    <Value>Sorry, this discount cannot be used with gift cards in the cart</Value>
+    <Value>Ľutujeme, túto zľavu nie je možné použiť na darčekové karty v košíku</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discount.expired">
-    <Value>Sorry, this offer is expired</Value>
+    <Value>Ľutujeme, platnosť tejto ponuky vypršala</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discount.notstartedyet">
-    <Value>Sorry, this offer is not started yet</Value>
+    <Value>Ospravedlňujeme sa, táto ponuka ešte nie je spustená</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode">
-    <Value>Discount Code</Value>
+    <Value>Zľavový kód</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.activated">
-    <Value>Coupon code ({0}) is activated! The discount will be applied to your order.</Value>
+    <Value>Kód kupónu ({0}) je aktivovaný! Zľava bude uplatnená na vašu objednávku.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.applied">
-    <Value>The coupon code was applied</Value>
+    <Value>Bol použitý kód kupónu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.button">
-    <Value>Apply coupon</Value>
+    <Value>Použiť kupón</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.cannotbefound">
-    <Value>The coupon code cannot be found</Value>
+    <Value>Kód kupónu sa nedá nájsť</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.currentcode">
-    <Value>Entered coupon code - {0}</Value>
+    <Value>Zadaný kód kupónu - {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.empty">
-    <Value>The coupon code is empty</Value>
+    <Value>Kód kupónu je prázdny</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.invalid">
-    <Value>This coupon code ({0}) is invalid or no longer available.</Value>
+    <Value>Tento kód kupónu ({0}) je neplatný alebo už nie je k dispozícii.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.label">
-    <Value>Enter discount coupon code</Value>
+    <Value>Zadajte kód zľavového kupónu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.tooltip">
-    <Value>Enter your coupon here</Value>
+    <Value>Sem zadajte svoj kupón</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.wrongdiscount">
-    <Value>The coupon code you entered couldn't be applied to your order</Value>
+    <Value>Zadaný kód kupónu nebolo možné použiť na vašu objednávku</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.estimateshipping.button">
-    <Value>Estimate shipping</Value>
+    <Value>Odhadovaný čas doručenia</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.fileuploaded">
-    <Value>Your file successfully uploaded!</Value>
+    <Value>Váš súbor bol úspešne nahraný!</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode">
-    <Value>Gift Cards</Value>
+    <Value>Darčekové poukážky</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode.applied">
-    <Value>The gift card code was applied</Value>
+    <Value>Bol použitý kód darčekového poukazu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode.button">
-    <Value>Add gift card</Value>
+    <Value>Pridajte darčekový poukaz</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode.dontworkwithautoshipproducts">
-    <Value>You cannot use gift cards with auto-ship (recurring) items.</Value>
+    <Value>Darčekové karty nemôžete používať s automaticky odosielanými (opakujúcimi sa) položkami.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode.label">
-    <Value>Enter gift card code</Value>
+    <Value>Zadajte kód darčekovej karty</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode.tooltip">
-    <Value>Enter gift card code</Value>
+    <Value>Zadajte kód darčekovej karty</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.giftcardcouponcode.wronggiftcard">
-    <Value>The coupon code you entered couldn't be applied to your order</Value>
+    <Value>Zadaný kód kupónu nebolo možné použiť na vašu objednávku</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.headerquantity">
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.image">
-    <Value>Image</Value>
+    <Value>Obrázok</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.itemtotal">
-    <Value>Total</Value>
+    <Value>Celkom</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.itemyousave">
-    <Value>You save: {0}</Value>
+    <Value>Ukladáte: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.maximumdiscountedqty">
-    <Value>Discounted qty: {0}</Value>
+    <Value>Zľavnené množstvo: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.maximumquantity">
-    <Value>The maximum quantity allowed for purchase is {0}.</Value>
+    <Value>Maximálne povolené množstvo na nákup je {0}.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.maximumshoppingcartitems">
-    <Value>The maximum number of distinct products allowed in the cart is {0}.</Value>
+    <Value>Maximálny počet odlišných produktov povolených v košíku je {0}.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.maximumuploadedfilesize">
-    <Value>Maximum file size is {0} KB</Value>
+    <Value>Maximálna veľkosť súboru je {0} kB</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.maximumwishlistitems">
-    <Value>The maximum number of distinct products allowed in the wishlist is {0}.</Value>
+    <Value>Maximálny počet odlišných produktov povolených v zozname želaní je {0}.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.mini.items">
-    <Value>{0} item(s)</Value>
+    <Value>Položky: ({0})</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.mini.itemstext">
-    <Value>There are {0} in your cart.</Value>
+    <Value>V košíku je {0} položiek.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.mini.noitems">
-    <Value>You have no items in your shopping cart.</Value>
+    <Value>V nákupnom košíku nemáte žiadne položky.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.mini.quantity">
-    <Value>Quantity</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.mini.unitprice">
-    <Value>Unit price</Value>
+    <Value>Jednotková cena</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.mini.viewcart">
-    <Value>Go to cart</Value>
+    <Value>Ísť do košíka</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.minimumquantity">
-    <Value>The minimum quantity allowed for purchase is {0}.</Value>
+    <Value>Minimálne povolené množstvo na nákup je {0}.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.notavailable">
-    <Value>Product is not available</Value>
+    <Value>Produkt nie je k dispozícii</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.outofstock">
-    <Value>Out of stock</Value>
+    <Value>Vypredané</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.preorder">
-    <Value>Pre-order</Value>
+    <Value>Predobjednať</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.preorderavailability">
-    <Value>pre-order availability</Value>
+    <Value>Dostupnosť predobjednávky</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.product(s)">
-    <Value>Product(s)</Value>
+    <Value>Produkt(y)</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.productdeleted">
-    <Value>Product is deleted</Value>
+    <Value>Produkt je vymazaný</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.productunpublished">
-    <Value>Product is not published</Value>
+    <Value>Produkt nie je zverejnený</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.quantity">
-    <Value>Qty.</Value>
+    <Value>Množstvo</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.quantityexceedsstock">
-    <Value>Your quantity exceeds stock on hand. The maximum quantity that can be added is {0}.</Value>
+    <Value>Vaše množstvo presahuje skladové zásoby. Maximálne množstvo, ktoré je možné pridať, je {0}.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.quantityshouldpositive">
-    <Value>Quantity should be positive</Value>
+    <Value>Množstvo by malo byť kladné</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.recipientemailerror">
-    <Value>Enter valid recipient email</Value>
+    <Value>Zadajte platný email príjemcu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.recipientnameerror">
-    <Value>Enter valid recipient name</Value>
+    <Value>Zadajte platné meno príjemcu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.recurringperiod">
-    <Value>[Auto-ship, Every {0} {1}]</Value>
+    <Value>[Automatické odoslanie, každých {0} {1}]</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.remove">
-    <Value>Remove</Value>
+    <Value>Odstrániť</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.rent">
-    <Value>Rent</Value>
+    <Value>Prenájom</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.rental.enterenddate">
-    <Value>Enter rental end date</Value>
+    <Value>Zadajte dátum ukončenia prenájmu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.rental.enterstartdate">
-    <Value>Enter rental start date</Value>
+    <Value>Zadajte dátum začiatku prenájmu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.rental.formatteddate">
-    <Value>Start date: {0}. End date: {1}.</Value>
+    <Value>Dátum začiatku: {0}. Dátum ukončenia: {1}.</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.rental.startdatelessenddate">
-    <Value>Rental start date should be less than end date</Value>
+    <Value>Začiatočný dátum prenájmu by mal byť kratší ako konečný dátum</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.rental.startdateshouldbefuture">
-    <Value>Rental start date should be the future date</Value>
+    <Value>Dátum začiatku prenájmu by mal byť budúci dátum</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.requiredproductupdatewarning">
-    <Value>This product is required in the quantity of {0}</Value>
+    <Value>Tento produkt je požadovaný v množstve {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.requiredproductwarning">
-    <Value>This product requires the following product is added to the cart in the quantity of {1}: {0}</Value>
+    <Value>Tento produkt vyžaduje, aby bol do košíka pridaný nasledujúci produkt v množstve {1}: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.selectattribute">
-    <Value>Please select {0}</Value>
+    <Value>Vyberte {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.senderemailerror">
-    <Value>Enter valid sender email</Value>
+    <Value>Zadajte platný email odosielateľa</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.sendernameerror">
-    <Value>Enter valid sender name</Value>
+    <Value>Zadajte platné meno odosielateľa</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.sku">
-    <Value>SKU</Value>
+    <Value>Skladová jednotka</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.taxshipping.excltax">
-    <Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené bez dane. Vrátanie &lt;a href="{0}"&gt;dopravy&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.taxshipping.incltax">
-    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené vrátane dane. Vrátanie &lt;a href="{0}"&gt;dopravy&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.textboxmaximumlength">
-    <Value>{0} : maximum length is {1} chars</Value>
+    <Value>{0}: maximálna dĺžka je {1} znakov</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.textboxminimumlength">
-    <Value>{0} : minimum length is {1} chars</Value>
+    <Value>{0}: minimálna dĺžka je {1} znakov</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.calculatedduringcheckout">
-    <Value>Calculated during checkout</Value>
+    <Value>Vypočítané počas platby</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.giftcardinfo">
-    <Value>Gift Card</Value>
+    <Value>Darčeková karta</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.giftcardinfo.code">
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.giftcardinfo.remaining">
-    <Value>{0} remaining</Value>
+    <Value>{0} zostávajúcich</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.ordertotal">
-    <Value>Total</Value>
+    <Value>Celkom</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.ordertotaldiscount">
-    <Value>Discount</Value>
+    <Value>Zľava</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.paymentmethodadditionalfee">
-    <Value>Payment method additional fee</Value>
+    <Value>Dodatočný poplatok spôsobu platby</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.rewardpoints">
-    <Value>{0} reward points</Value>
+    <Value>{0} bodov za odmenu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.rewardpoints.willearn">
-    <Value>You will earn</Value>
+    <Value>Získate</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.rewardpoints.willearn.point">
-    <Value>{0} points</Value>
+    <Value>{0} bodov</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.shipping">
-    <Value>Shipping</Value>
+    <Value>Doprava</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.shipping.method">
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.shipping.notrequired">
-    <Value>Not required</Value>
+    <Value>Nevyžaduje sa</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.subtotal">
-    <Value>Sub-Total</Value>
+    <Value>Medzisúčet</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.subtotaldiscount">
-    <Value>Discount</Value>
+    <Value>Zľava</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.tax">
-    <Value>Tax</Value>
+    <Value>Daň</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.totals.taxrateline">
-    <Value>Tax {0}%</Value>
+    <Value>Daň {0}%</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.unitprice">
-    <Value>Price</Value>
+    <Value>Cena</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.updatecart">
-    <Value>Update shopping cart</Value>
+    <Value>Aktualizujte nákupný košík</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.vendorname">
-    <Value>Vendor name</Value>
+    <Value>Meno predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.wishlistdisabled">
-    <Value>Wishlist is disabled for this product</Value>
+    <Value>Zoznam želaní je pre tento produkt deaktivovaný</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap">
-    <Value>Sitemap</Value>
+    <Value>Sitemapa</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.blogposts">
-    <Value>Blog posts</Value>
+    <Value>Blogové príspevky</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.categories">
-    <Value>Categories</Value>
+    <Value>Kategórie</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.description">
-    <Value>View the sitemap for this website below, with links to each of the pages and brief descriptions of what to find in each section</Value>
+    <Value>Nižšie si pozrite sitemapu webu pre túto webovú stránku s odkazmi na každú zo stránok a stručným popisom toho, čo nájdete v jednotlivých častiach.</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.general">
-    <Value>General</Value>
+    <Value>Všeobecné</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.manufacturers">
-    <Value>Manufacturers</Value>
+    <Value>Výrobcovia</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.news">
-    <Value>News</Value>
+    <Value>Novinky</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.products">
-    <Value>Products</Value>
+    <Value>Produkty</Value>
   </LocaleResource>
   <LocaleResource Name="sitemap.producttags">
-    <Value>Product tags</Value>
+    <Value>Značky produktov</Value>
   </LocaleResource>
   <LocaleResource Name="storeclosed">
-    <Value>This store is currently closed</Value>
+    <Value>Tento obchod je momentálne zatvorený</Value>
   </LocaleResource>
   <LocaleResource Name="storeclosed.hint">
-    <Value>Please check back in a little while.</Value>
+    <Value>Skúste to znova o chvíľu.</Value>
   </LocaleResource>
   <LocaleResource Name="storetheme">
-    <Value>Select store theme</Value>
+    <Value>Vyberte tému obchodu</Value>
   </LocaleResource>
   <LocaleResource Name="tax.exclusive">
-    <Value>Show prices tax exclusive</Value>
+    <Value>Zobraziť ceny bez dane</Value>
   </LocaleResource>
   <LocaleResource Name="tax.inclusive">
-    <Value>Show prices tax inclusive</Value>
+    <Value>Zobraziť ceny vrátane dane</Value>
   </LocaleResource>
   <LocaleResource Name="tax.selector.label">
-    <Value>Tax selector</Value>
+    <Value>Výberca daní</Value>
   </LocaleResource>
   <LocaleResource Name="topic.button">
-    <Value>Enter</Value>
+    <Value>Vstúpiť</Value>
   </LocaleResource>
   <LocaleResource Name="topic.enterpassword">
-    <Value>Please enter password to access this content:</Value>
+    <Value>Na prístup k tomuto obsahu zadajte heslo:</Value>
   </LocaleResource>
   <LocaleResource Name="topic.wrongpassword">
-    <Value>Wrong password</Value>
+    <Value>Zlé heslo</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.isnotempty">
-    <Value>Password is required.</Value>
+    <Value>Vyžaduje sa heslo.</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.lengthvalidation">
-    <Value>&lt;li&gt;must have at least {0} characters&lt;/li&gt;</Value>
+    <Value>&lt;li&gt;musí mať najmenej {0} znakov&lt;/li&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.requiredigit">
-    <Value>&lt;li&gt;must have at least one digit&lt;/li&gt;</Value>
+    <Value>&lt;li&gt;musí mať aspoň jednu číslicu&lt;/li&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.requirelowercase">
-    <Value>&lt;li&gt;must have at least one lowercase&lt;/li&gt;</Value>
+    <Value>&lt;li&gt;musí mať aspoň jedno malé písmeno&lt;/li&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.requirenonalphanumeric">
-    <Value>&lt;li&gt;must have at least one special character (e.g. #?!@$%^&amp;*-)&lt;/li&gt;</Value>
+    <Value>&lt;li&gt;musí mať aspoň jeden špeciálny znak (napr. #?!@$%^&amp;*-)&lt;/li&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.requireuppercase">
-    <Value>&lt;li&gt;must have at least one uppercase&lt;/li&gt;</Value>
+    <Value>&lt;li&gt;musí mať aspoň jedno veľké písmeno&lt;/li&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="validation.password.rule">
-    <Value>&lt;p&gt;Password must meet the following rules: &lt;/p&gt;&lt;ul&gt;{0}{1}{2}{3}{4}&lt;/ul&gt;</Value>
+    <Value>&lt;p&gt;Heslo musí spĺňať nasledujúce pravidlá: &lt;/p&gt;&lt;ul&gt;{0}{1}{2}{3}{4}&lt;/ul&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="vendors">
-    <Value>Vendors</Value>
+    <Value>Predajcovia</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount">
-    <Value>Apply for vendor account</Value>
+    <Value>Požiadajte o účet predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.accepttermsofservice">
-    <Value>I accept terms of service</Value>
+    <Value>Prijímam zmluvné podmienky</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.accepttermsofservice.read">
-    <Value>(read)</Value>
+    <Value>(čitať)</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.accepttermsofservice.required">
-    <Value>Please accept terms of service</Value>
+    <Value>Prijmite prosím zmluvné podmienky</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.alreadyapplied">
-    <Value>You already applied for a vendor account. Please register as a new customer in order to apply for one more vendor account.</Value>
+    <Value>Už ste požiadali o účet predajcu. Zaregistrujte sa ako nový zákazník a požiadajte o ďalší účet dodávateľa.</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.button">
-    <Value>Submit</Value>
+    <Value>Uložiť</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.description">
-    <Value>Description</Value>
+    <Value>Popis</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.email.hint">
-    <Value>Enter your email address.</Value>
+    <Value>Zadajte svoju emailovú adresu.</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.email.required">
-    <Value>Email is required.</Value>
+    <Value>Vyžaduje sa email.</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.isadmin">
-    <Value>Administrator cannot apply for vendor account</Value>
+    <Value>Správca nemôže požiadať o účet predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.name">
-    <Value>Vendor name</Value>
+    <Value>Meno predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.name.hint">
-    <Value>Enter vendor name.</Value>
+    <Value>Zadajte meno predajcu.</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.name.required">
-    <Value>Vendor name is required.</Value>
+    <Value>Meno predajcu je povinné.</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.picture">
-    <Value>Picture</Value>
+    <Value>Obrázok</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.picture.errormessage">
-    <Value>You can add only picture file</Value>
+    <Value>Môžete pridať iba súbor s obrázkom</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.submitted">
-    <Value>Your request has been submitted successfully. We'll contact you soon.</Value>
+    <Value>Vaša žiadosť bola úspešne odoslaná. Ozveme sa vám čoskoro.</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.list">
-    <Value>Vendor List</Value>
+    <Value>Zoznam dodávateľov</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.viewall">
-    <Value>View all</Value>
+    <Value>Zobraziť všetky</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist">
-    <Value>Wishlist</Value>
+    <Value>Zoznam želaní</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.addtocart.error">
-    <Value>Some product(s) from wishlist could not be moved to the cart for some reasons.</Value>
+    <Value>Niektoré produkty zo zoznamu želaní nebolo možné z nejakých dôvodov presunúť do košíka.</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.addtocart.noaddeditems">
-    <Value>No products selected to add to cart.</Value>
+    <Value>Neboli vybrané žiadne výrobky na vloženie do košíka.</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.cartisempty">
-    <Value>The wishlist is empty!</Value>
+    <Value>Zoznam želaní je prázdny!</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend">
-    <Value>Email a friend</Value>
+    <Value>Pošlite email priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.button">
-    <Value>Send email</Value>
+    <Value>Poslať email</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.friendemail">
-    <Value>Friend's email</Value>
+    <Value>Email priateľa</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.friendemail.hint">
-    <Value>Enter friend's email.</Value>
+    <Value>Zadajte email priateľa.</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.friendemail.required">
-    <Value>Enter friend's email</Value>
+    <Value>Zadajte email priateľa</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.onlyregisteredusers">
-    <Value>Only registered customers can use email a friend feature</Value>
+    <Value>Iba registrovaní zákazníci môžu používať funkciu emailu priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.personalmessage">
-    <Value>Personal message</Value>
+    <Value>Osobná správa</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.personalmessage.hint">
-    <Value>Enter personal message (optional).</Value>
+    <Value>Zadajte osobnú správu (voliteľné).</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.successfullysent">
-    <Value>Your message has been sent.</Value>
+    <Value>Vaša správa bola odoslaná.</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.title">
-    <Value>Email your wishlist to a friend</Value>
+    <Value>Pošlite zoznam svojich prianí priateľovi</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.youremailaddress">
-    <Value>Your email address</Value>
+    <Value>Vaša emailová adresa</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.youremailaddress.hint">
-    <Value>Enter your email address.</Value>
+    <Value>Zadajte svoju emailovú adresu.</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.emailafriend.youremailaddress.required">
-    <Value>Enter your email</Value>
+    <Value>Zadajte svoju emailovú adresu</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.headerquantity">
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.taxshipping.excltax">
-    <Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené bez dane. Vrátane &lt;a href="{0}"&gt;dopravy&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.taxshipping.incltax">
-    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+    <Value>Všetky ceny sú uvedené vrátane dane. Vrátane &lt;a href="{0}"&gt;dopravy&lt;/a&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.updatecart">
-    <Value>Update wishlist</Value>
+    <Value>Aktualizujte zoznam želaní</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.wishlistof">
-    <Value>Wishlist of {0}</Value>
+    <Value>Zoznam želaní {0}</Value>
   </LocaleResource>
   <LocaleResource Name="wishlist.yourwishlisturl">
-    <Value>Your wishlist URL for sharing</Value>
+    <Value>Adresa URL vášho zoznamu želaní na zdieľanie</Value>
   </LocaleResource>
 </Language>
