@@ -1000,310 +1000,310 @@
     <Value>Informácie o platbe</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.paymentmethod">
-    <Value>Payment method</Value>
+    <Value>Spôsob platby</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints">
-    <Value>Pickup</Value>
+    <Value>Vyzdvihnutie</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints.description">
-    <Value>Pick up your items at the store</Value>
+    <Value>Vyzdvihnite si svoje položky v obchode</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints.name">
-    <Value>Pickup at {0}</Value>
+    <Value>Vyzdvihnutie o {0}</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints.notavailable">
-    <Value>Pickup points could not be loaded</Value>
+    <Value>Odberné body sa nepodarilo načítať</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints.nullname">
-    <Value>Pickup</Value>
+    <Value>Vyzdvihnutie</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints.selectpickuppoint">
-    <Value>Select pickup point</Value>
+    <Value>Vyberte odberné miesto</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.placedorderdetails">
-    <Value>Click here for order details.</Value>
+    <Value>Kliknutím sem zobrazíte podrobné informácie o objednávke.</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.progress.address">
-    <Value>Address</Value>
+    <Value>Adresa</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.progress.cart">
-    <Value>Cart</Value>
+    <Value>Košík</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.progress.complete">
-    <Value>Complete</Value>
+    <Value>Dokončené</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.progress.confirm">
-    <Value>Confirm</Value>
+    <Value>Potvrdiť</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.progress.payment">
-    <Value>Payment</Value>
+    <Value>Platba</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.progress.shipping">
-    <Value>Shipping</Value>
+    <Value>Doprava</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.redirectmessage">
-    <Value>Redirected</Value>
+    <Value>Presmerovaný</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectbillingaddress">
-    <Value>Select billing address</Value>
+    <Value>Zvoľte fakturačnú adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectbillingaddressorenternewone">
-    <Value>Select a billing address from your address book or enter a new address.</Value>
+    <Value>Vyberte si z adresára fakturačnú adresu alebo zadajte novú adresu.</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectpaymentmethod">
-    <Value>Select payment method</Value>
+    <Value>Vyberte spôsob platby</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectpaymentmethod.methodandfee">
     <Value>{0} ({1})</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectshippingaddress">
-    <Value>Select shipping address</Value>
+    <Value>Vyberte adresu dodania</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectshippingaddressorenternewone">
-    <Value>Select a shipping address from your address book or enter a new address.</Value>
+    <Value>Vyberte dodaciu adresu z adresára alebo zadajte novú adresu.</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectshippingmethod">
-    <Value>Select shipping method</Value>
+    <Value>Vyberte spôsob dopravy</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.selectshippingmethod.methodandfee">
     <Value>{0} ({1})</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shippingaddress">
-    <Value>Shipping address</Value>
+    <Value>Dodacia adresa</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shippingisnotallowed">
-    <Value>Shipping is not allowed</Value>
+    <Value>Doprava nie je povolená</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shippingmethod">
-    <Value>Shipping method</Value>
+    <Value>Spôsob dopravy</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shippingmethod.shippingfrommultiplelocations">
-    <Value>Please note that your order will be shipped from multiple locations</Value>
+    <Value>Upozorňujeme, že vaša objednávka bude odoslaná z viacerých miest</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shippingoptioncouldnotbeloaded">
-    <Value>Shipping options could not be loaded</Value>
+    <Value>Možnosti dopravy sa nepodarilo načítať</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shiptosameaddress">
-    <Value>Ship to the same address</Value>
+    <Value>Doručiť na rovnakú adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.shiptothisaddress">
-    <Value>Ship to this address</Value>
+    <Value>Doručiť na túto adresu</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.submittingorder">
-    <Value>Submitting order information...</Value>
+    <Value>Informácie o objednávke sa odosielajú ...</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.termsofservice">
-    <Value>Terms of service</Value>
+    <Value>Zmlúvne podmienky</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.termsofservice.iaccept">
-    <Value>I agree with the terms of service and I adhere to them unconditionally</Value>
+    <Value>Súhlasím so zmluvnými podmienkami a bezvýhradne sa nimi riadim</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.termsofservice.pleaseaccept">
-    <Value>Please accept the terms of service before the next step.</Value>
+    <Value>Pred ďalším krokom prijmite zmluvné podmienky.</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.termsofservice.read">
-    <Value>(read)</Value>
+    <Value>(Pričítané)</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.thankyou">
-    <Value>Thank you</Value>
+    <Value>Ďakujeme</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.thankyou.continue">
-    <Value>Continue</Value>
+    <Value>Pokračovať</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.userewardpoints">
-    <Value>Use my reward points, {0} reward points ({1}) available for this order</Value>
+    <Value>Použiť moje body za odmenu, {0} body za odmenu ({1}) dostupné pre túto objednávku</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.yourorderhasbeensuccessfullyprocessed">
-    <Value>Your order has been successfully processed!</Value>
+    <Value>Vaša objednávka bola úspešne spracovaná!</Value>
   </LocaleResource>
   <LocaleResource Name="common.addnew">
-    <Value>Add new</Value>
+    <Value>Pridať nové</Value>
   </LocaleResource>
   <LocaleResource Name="common.all">
-    <Value>All</Value>
+    <Value>Všetko</Value>
   </LocaleResource>
   <LocaleResource Name="common.areyousure">
-    <Value>Are you sure?</Value>
+    <Value>Si si istý?</Value>
   </LocaleResource>
   <LocaleResource Name="common.back">
-    <Value>Back</Value>
+    <Value>Späť</Value>
   </LocaleResource>
   <LocaleResource Name="common.cancel">
-    <Value>Cancel</Value>
+    <Value>Zrušiť</Value>
   </LocaleResource>
   <LocaleResource Name="common.close">
-    <Value>Close</Value>
+    <Value>Zavrieť</Value>
   </LocaleResource>
   <LocaleResource Name="common.config">
-    <Value>Config</Value>
+    <Value>Konfigurácia</Value>
   </LocaleResource>
   <LocaleResource Name="common.confirm">
-    <Value>Confirm</Value>
+    <Value>Potvrdiť</Value>
   </LocaleResource>
   <LocaleResource Name="common.continue">
-    <Value>Continue</Value>
+    <Value>Ďalej</Value>
   </LocaleResource>
   <LocaleResource Name="common.day">
-    <Value>Day</Value>
+    <Value>Deň</Value>
   </LocaleResource>
   <LocaleResource Name="common.delete">
-    <Value>Delete</Value>
+    <Value>Zmazať</Value>
   </LocaleResource>
   <LocaleResource Name="common.deleteconfirmation">
-    <Value>Are you sure you want to delete this item?</Value>
+    <Value>Naozaj chcete odstrániť túto položku?</Value>
   </LocaleResource>
   <LocaleResource Name="common.edit">
-    <Value>Edit</Value>
+    <Value>Upraviť</Value>
   </LocaleResource>
   <LocaleResource Name="common.error">
-    <Value>Error</Value>
+    <Value>Chyba</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.cancel">
-    <Value>Cancel</Value>
+    <Value>Zrušiť</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.delete">
-    <Value>Delete</Value>
+    <Value>Zmazať</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.downloaduploadedfile">
-    <Value>Download</Value>
+    <Value>Stiahnuť</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.dropfiles">
-    <Value>Drop files here to upload</Value>
+    <Value>Sem presuňte súbory, ktoré chcete nahrať</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.processing">
-    <Value>Processing dropped files...</Value>
+    <Value>Spracovanie nahratých súborov...</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.removedownload">
-    <Value>Remove</Value>
+    <Value>Odstrániť</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.retry">
-    <Value>Retry</Value>
+    <Value>Skúsiť znova</Value>
   </LocaleResource>
   <LocaleResource Name="common.fileuploader.upload">
-    <Value>Upload a file</Value>
+    <Value>Nahrať súbor</Value>
   </LocaleResource>
   <LocaleResource Name="common.hide">
-    <Value>Hide</Value>
+    <Value>Skryť</Value>
   </LocaleResource>
   <LocaleResource Name="common.loadingnextstep">
-    <Value>Loading next step...</Value>
+    <Value>Načítava sa ďalší krok ...</Value>
   </LocaleResource>
   <LocaleResource Name="common.managepage">
-    <Value>Manage this page</Value>
+    <Value>Spravovať túto stránku</Value>
   </LocaleResource>
   <LocaleResource Name="common.month">
-    <Value>Month</Value>
+    <Value>Mesiac</Value>
   </LocaleResource>
   <LocaleResource Name="common.no">
-    <Value>No</Value>
+    <Value>Nie</Value>
   </LocaleResource>
   <LocaleResource Name="common.nocancel">
-    <Value>No, cancel</Value>
+    <Value>Nie, zrušiť</Value>
   </LocaleResource>
   <LocaleResource Name="common.notification">
-    <Value>Notification</Value>
+    <Value>Notifikácia</Value>
   </LocaleResource>
   <LocaleResource Name="common.ok">
     <Value>OK</Value>
   </LocaleResource>
   <LocaleResource Name="common.relativedatetime.past">
-    <Value>{0} ago</Value>
+    <Value>Pred {0}</Value>
   </LocaleResource>
   <LocaleResource Name="common.remove">
-    <Value>Remove</Value>
+    <Value>Odstrániť</Value>
   </LocaleResource>
   <LocaleResource Name="common.save">
-    <Value>Save</Value>
+    <Value>Uložiť</Value>
   </LocaleResource>
   <LocaleResource Name="common.search">
-    <Value>Search</Value>
+    <Value>Hľadať</Value>
   </LocaleResource>
   <LocaleResource Name="common.show">
-    <Value>Show</Value>
+    <Value>Zobraziť</Value>
   </LocaleResource>
   <LocaleResource Name="common.upload">
-    <Value>Upload</Value>
+    <Value>Nahrať</Value>
   </LocaleResource>
   <LocaleResource Name="common.view">
-    <Value>View</Value>
+    <Value>Náhľad</Value>
   </LocaleResource>
   <LocaleResource Name="common.wait">
-    <Value>Wait...</Value>
+    <Value>Počkajte...</Value>
   </LocaleResource>
   <LocaleResource Name="common.warning">
-    <Value>Warning</Value>
+    <Value>Pozor</Value>
   </LocaleResource>
   <LocaleResource Name="common.wrongcaptchamessage">
-    <Value>The reCAPTCHA response is invalid or malformed. Please try again.</Value>
+    <Value>Odozva reCAPTCHA je neplatná alebo má nesprávny formát. Prosím skúste znova.</Value>
   </LocaleResource>
   <LocaleResource Name="common.wrongemail">
-    <Value>Wrong email</Value>
+    <Value>Nesprávny email</Value>
   </LocaleResource>
   <LocaleResource Name="common.year">
-    <Value>Year</Value>
+    <Value>Rok</Value>
   </LocaleResource>
   <LocaleResource Name="common.yes">
-    <Value>Yes</Value>
+    <Value>Áno</Value>
   </LocaleResource>
   <LocaleResource Name="contactus">
-    <Value>Contact us</Value>
+    <Value>Kontaktujte nás</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.button">
-    <Value>Submit</Value>
+    <Value>Odoslať</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.email">
-    <Value>Your email</Value>
+    <Value>Váš email</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.email.hint">
-    <Value>Enter your email address.</Value>
+    <Value>Zadajte vašu emailovú adresu.</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.email.required">
-    <Value>Enter email</Value>
+    <Value>Zadajte emailovú adresu</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.enquiry">
-    <Value>Enquiry</Value>
+    <Value>Správa</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.enquiry.hint">
-    <Value>Enter your enquiry.</Value>
+    <Value>Zadajte vašu správu.</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.enquiry.required">
-    <Value>Enter enquiry</Value>
+    <Value>Zadajte vašu správu.</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.fullname">
-    <Value>Your name</Value>
+    <Value>Vaše meno</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.fullname.hint">
-    <Value>Enter your name.</Value>
+    <Value>Zadajte vaše meno.</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.fullname.required">
-    <Value>Enter your name</Value>
+    <Value>Zadajte vaše meno</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.subject">
-    <Value>Subject</Value>
+    <Value>Predmet</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.subject.hint">
-    <Value>Enter subject.</Value>
+    <Value>Zadajte predmet.</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.subject.required">
-    <Value>Please enter subject</Value>
+    <Value>Zadajte predmet</Value>
   </LocaleResource>
   <LocaleResource Name="contactus.yourenquiryhasbeensent">
-    <Value>Your enquiry has been successfully sent to the store owner.</Value>
+    <Value>Vaša správa bola úspešne odoslaná majiteľovi obchodu.</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor">
-    <Value>Contact vendor</Value>
+    <Value>Kontaktujte predajcu</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.button">
-    <Value>Submit</Value>
+    <Value>Odoslať</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.email">
-    <Value>Your email</Value>
+    <Value>Váš email</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.email.hint">
-    <Value>Enter your email address.</Value>
+    <Value>Zadajte váš email.</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.email.required">
-    <Value>Enter email</Value>
+    <Value>Zadajte email</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.enquiry">
     <Value>Enquiry</Value>
@@ -1315,67 +1315,67 @@
     <Value>Enter enquiry</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.fullname">
-    <Value>Your name</Value>
+    <Value>Vaše meno</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.fullname.hint">
-    <Value>Enter your name.</Value>
+    <Value>Zadajte vaše meno.</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.fullname.required">
-    <Value>Enter your name</Value>
+    <Value>Zadajte vaše meno</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.subject">
-    <Value>Subject</Value>
+    <Value>Predmet</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.subject.hint">
-    <Value>Enter subject.</Value>
+    <Value>Zadajte predmet.</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.subject.required">
-    <Value>Please enter subject</Value>
+    <Value>Prosím zadajte predmet</Value>
   </LocaleResource>
   <LocaleResource Name="contactvendor.yourenquiryhasbeensent">
-    <Value>Your enquiry has been successfully sent to the vendor.</Value>
+    <Value>Vaša požiadavka bola úspešne odoslaná predajcovi.</Value>
   </LocaleResource>
   <LocaleResource Name="content.copyrightnotice">
-    <Value>Copyright &amp;copy; {0} {1}. All rights reserved.</Value>
+    <Value>Copyright &amp;copy; {0} {1}. Všetky práva vyhradené.</Value>
   </LocaleResource>
   <LocaleResource Name="currencies">
-    <Value>Currencies</Value>
+    <Value>Meny</Value>
   </LocaleResource>
   <LocaleResource Name="currency.selector.label">
-    <Value>Currency selector</Value>
+    <Value>Výber meny</Value>
   </LocaleResource>
   <LocaleResource Name="customer.guest">
-    <Value>Guest</Value>
+    <Value>Hosť</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.fields.date">
-    <Value>Date</Value>
+    <Value>Dátum</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.fields.download">
-    <Value>Download</Value>
+    <Value>Stiahnuť</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.fields.download.na">
     <Value>n/a</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.fields.downloadlicense">
-    <Value>Download license</Value>
+    <Value>Stiahnuť licenciu</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.fields.order">
-    <Value>Order #</Value>
+    <Value>Objednávka č. #</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.fields.product">
-    <Value>Product</Value>
+    <Value>Produkt</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.iagree">
-    <Value>I agree</Value>
+    <Value>Súhlasím</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.noitems">
-    <Value>There are no downloadable products</Value>
+    <Value>Neexistujú žiadne produkty na stiahnutie</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.reachedmaximumnumber">
-    <Value>You have reached maximum number of downloads {0}</Value>
+    <Value>Dosiahli ste maximálny počet stiahnutí {0}</Value>
   </LocaleResource>
   <LocaleResource Name="downloadableproducts.useragreement">
-    <Value>User agreement</Value>
+    <Value>Súhlas používateľa</Value>
   </LocaleResource>
   <LocaleResource Name="enums.nop.core.domain.catalog.attributecontroltype.checkboxes">
     <Value>Checkboxes</Value>
